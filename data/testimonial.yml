@@ -1,0 +1,40 @@
+enable: true
+title: Fun Facts About Penta
+paragraph: >
+  A fully integrated network infrastructure enabling people, businesses, and communities to exchange things of value in a secure, seamless, and efficient way. The kind of blockchain infrastructure needed to power the Smart Economy of tomorrow.
+
+numbers:
+  - icon: ion-android-globe
+    counter: 4
+    text: On Four Continents
+  - icon: ion-android-contacts
+    counter: 50
+    text: With Hard Working Engineers
+  - icon: ion-coffee
+    counter: 10000
+    text: And many Cups of Coffee
+  - icon: ion-android-share-alt
+    counter: 10000000
+    text: Serving the Blockchain Community
+
+people:
+  - text: >
+      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
+    image: img/team/david.png
+    name: David Ritter
+    role: CEO, Co-founder of Penta
+  - text: >
+      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
+    image: img/team/steve.png
+    name: Dr. Steve Melnikoff
+    role: CSO - Co-founder of Penta
+  - text: >
+      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
+    image: img/team/stephane.png
+    name: Stephane Laurent
+    role: Chief Marketing Officer
+  - text: >
+      This Company created an e-commerce site with the tools to make our business a success, with innovative ideas we feel that our site has unique elements that make us stand out from the crowd.
+    image: img/team/alan.png
+    name: Alan Finkel
+    role: Lead Ecosystem Ambassador, USA

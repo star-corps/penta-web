@@ -1,0 +1,17 @@
+<section id="feature">
+<div class="container">
+  <div class="row">
+    <div class="col-md-6 col-md-offset-6">
+      <h2 class="text-uppercase">{{ .Site.Params.feature.title }}</h2>
+      <div>
+        <p class="justify">{{ .Site.Params.feature.content1 | markdownify }}</p>
+        <p class="justify">{{ .Site.Params.feature.content2 | markdownify }}</p>
+      	<p class="justify">{{ .Site.Params.feature.content3 | markdownify }}</p>
+      </div>
+      {{ with .Site.Params.feature.button }}
+      	<a style="margin-top:20px;" href="{{ .url }}" class="btn btn-view-works">{{ .caption }}</a>
+      {{ end }}
+    </div>
+  </div>
+</div>
+</section>

@@ -1,0 +1,34 @@
+{
+  "name": "penta_website_2",
+  "version": "1.0.0",
+  "description": "Hugo SSG Penta website with gulp add-ons",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "penta",
+    "website"
+  ],
+  "author": "Steve Melnikoff",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp-clean": "^0.4.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-if": "^2.0.2",
+    "gulp-jsdoc3": "^2.0.0",
+    "gulp-rename": "^1.3.0",
+    "gulp-replace-build-block": "0.0.4",
+    "gulp-sass": "^4.0.1",
+    "gulp-sequence": "^1.0.0",
+    "gulp-server-livereload": "^1.9.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-svgo": "^1.5.4",
+    "gulp-uglify": "^3.0.0",
+    "gulp-useref": "^3.1.5",
+    "gulp-util": "^3.0.8",
+    "yargs": "^12.0.1"
+  }
+}
