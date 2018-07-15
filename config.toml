@@ -29,7 +29,7 @@ theme = "airspace-hugo"
   [[menu.footer]]
     weight = 2
     name = "Contact us"
-    url = "#"
+    url = "/contact"
   [[menu.footer]]
     weight = 3
     name = "How it works"
@@ -37,7 +37,7 @@ theme = "airspace-hugo"
   [[menu.footer]]
     weight = 4
     name = "Blog"
-    url = "#"
+    url = "/blog"
   [[menu.footer]]
     weight = 5
     name = "Terms"
@@ -62,8 +62,8 @@ theme = "airspace-hugo"
   [params.wrapper]
     enable = true
     title = "About"
-    italic = "This is the age of the blockchain. Everywhere we look there are opportunities for new and innovative blockchain solutions to real world problems. But how to connect the physical and the blockchain digital economies? The answer is Penta."
-    paragraph = "'Penta' or 'PNT', short for 'Penta Network' is a next generation blockchain platform for both public and private  projects. Penta is designed to be a premier platform for transferring value, and operating high-performance decentralized applications. It will remove roadblocks, reshaping the blockchain landscape with an emphasis on contributing to the real economy. Penta's unique consensus algorithm (DSC) and a truly distributed network architecture is building the world’s most inclusive, equitable, and decentralized blockchain community."
+    italic = "We are currently living in the Blockchain revolution. From the simpiliest tasks to industry disrupting applications, The Blockchain data structure is poised to revolutionize the modern world, and Penta is the next-gen platform to change everything."
+    paragraph = "'Penta' or 'PNT', short for Penta Network, is a next generation blockchain platform for both public and private projects. Penta is designed to be a premier platform for transferring value, and operating high-performance decentralized applications. Penta will remove roadblocks and reshape the blockchain landscape with an emphasis on contributing to the real economy. Penta's unique consensus algorithm (DSC) and it's truly distributed network architecture is building the world’s most inclusive, equitable, and decentralized blockchain community."
   [params.blog]
     enable = true
     title = "Get The Latest On What We're doing"
@@ -77,7 +77,7 @@ theme = "airspace-hugo"
     content3 = "The mission of Penta is to become the “Universal Blockchain Connector” through unique, innovative technology and a commitment to building an inclusive and decentralized community that connects blockchain technology to the world."
     [params.feature.button]
       caption = "View Works"
-      url = "#"
+      url = "/work"
 
   [params.call]
     enable = true
