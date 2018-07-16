@@ -56,6 +56,8 @@ a:active,
 a:focus,
 a:active {
   text-decoration: none !important;
+  color: #4b337f;
+
 }
 .section-title {
   margin-bottom: 70px;
@@ -98,6 +100,9 @@ header .navbar-default .navbar-nav li a {
 }
 font header .navbar-default .navbar-nav li a:hover {
   color: #000;
+}
+.block {
+  padding: 0 10px;
 }
 /*---------------------------------------------
 					Index Start
@@ -416,17 +421,21 @@ font header .navbar-default .navbar-nav li a:hover {
   text-align: center;
 }
 #global-header .block h1 {
-  font-weight: 100;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 350;
   font-size: 45px;
   letter-spacing: 6px;
   padding-bottom: 15px;
   margin-top: 0;
+  line-height: 60px;
   text-transform: capitalize;
 }
 #global-header .block p {
-  font-size: 16px;
+  font-size: 28px;
+  line-height: 40px;
+  font-family: 'Roboto', sans-serif;
   font-weight: 300;
-  letter-spacing: 1px;
+  letter-spacing: 3px;
   word-spacing: 3px;
 }
 /*--

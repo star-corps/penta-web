@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pnt on Penta Global</title>
+    <link>/tags/pnt/</link>
+    <description>Recent content in Pnt on Penta Global</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jun 2018 15:03:01 +0900</lastBuildDate>
+    
+	<atom:link href="/tags/pnt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Penta (PNT) Trading on HADAX Postponed, to Open at 15:00, June 22</title>
+      <link>/blog/trading-on-hadax/</link>
+      <pubDate>Wed, 20 Jun 2018 15:03:01 +0900</pubDate>
+      
+      <guid>/blog/trading-on-hadax/</guid>
+      <description>&lt;p&gt;Dear all,&lt;/p&gt;
+
+&lt;p&gt;Due to HADAX system issues, Penta (PNT) trading which was originally scheduled to open 15:00, June 20(GMT+8) will be postponed to open at 15:00, June 22 (GMT+8).  Withdrawals will be available from 14:30 June 23, 2018 (GMT+8). Sorry for the inconvenience caused.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

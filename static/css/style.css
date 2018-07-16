@@ -25,10 +25,15 @@
 }
 
 .post-area a:link, .post-area a:visited {
-  font-size: 30px;
-  color: #333;
-}
+  font-size: 15px;
+ /* color: #333; */
+ color: #4b337f;
 
+}
+.post-area a.post-title:link, .post-area a.post-title:visited {
+  font-size: 18px;
+  font-weight: bolder;
+}
 .post-area a:hover {
   color: #0D0017;
 }

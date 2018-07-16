@@ -27,6 +27,8 @@ const useref = require('gulp-useref');
 const gulpIf = require('gulp-if');
 const server = require('gulp-server-livereload');
 const replaceblocks = require('gulp-replace-build-block');
+const syncy = require('syncy');
+const dirSync = require( 'gulp-directory-sync' );
 var bases = {
     in: './',
     dist: './public/',
@@ -143,12 +145,30 @@ gulp.task('replace', ()=> {
     .pipe(gulp.dest('./public/work/'));
 });
 /**
+ * @function docs
+ * @desc create a docs/ for gh-pages
+ */
+function done(err) {
+    let msg = err ? err : 'sync carried out successfully';
+    console.log(msg);
+}
+gulp.task( 'sync', function() {
+    return gulp.src( '' )
+    .pipe(dirSync( './public', './docs', { printSummary: true } ))
+    .on('error', gutil.log);
+} );
+gulp.task('docs', ()=> {
+    return gulp.src('./public/**/*')
+    .pipe(replaceblocks())
+    .pipe(gulp.dest('./docs'));
+});
+/**
  * @function server
  * @desc spin up a server at localhost:8000
  * see https://github.com/hiddentao/gulp-server-livereload
  */
 gulp.task('server', ()=> {
-    gulp.src('public')
+    gulp.src('docs')
       .pipe(server({
         livereload: true,
         open: true

@@ -164,10 +164,25 @@ cols    1     2      3
 px      68    160    252    */
 @media only screen and (max-width: 767px) {
   /*---------------------------------------------
-					Index Start 
+          Index Start 
+          h2 {
+  font-size: 30px;
+  font-weight: 400;
+}
+h3 {
+  font-size: 28px;
+  font-weight: 300;
+}
+p {
+  font-size: 15px;
+  line-height: 28px;
+}
 -----------------------------------------------*/
   .heading {
     padding-left: 0px;
+  }
+  h1 {
+    font-size: 21px;
   }
   h2 {
     font-size: 18px;
@@ -195,6 +210,24 @@ px      68    160    252    */
   #slider .block p {
     font-size: 15px;
     line-height: 20px;
+  }
+  #global-header .block h1 {
+    font-size: 26px;
+    font-weight: 300;
+    line-height: 28px;
+    padding-bottom: 0px;
+  }
+  #global-header .block p {
+    font-size: 15px;
+    line-height: 20px;
+  }
+  .post-area a:link, .post-area a:visited {
+    font-size: 13px;
+    color: #4b337f;
+  }
+  .post-area a.post-title:link, .post-area a.post-title:visited {
+    font-size: 15px;
+    font-weight: bolder;
   }
   /*--
 	wrapper Start 

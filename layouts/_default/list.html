@@ -12,9 +12,15 @@
 	<main>
 		{{ range .Data.Pages }}
 		<div class="post-area">
-			<a href="{{ .Permalink }}" class="bold">{{ .Title }}</a>
+			<a class="post-title" href="{{ .Permalink }}" class="bold">{{ .Title }}</a>
 			<p class="post-date">{{ .Date.Format .Site.Params.date_format }}</p>
 			<p>{{ .Summary }}</p>
+			{{ if .Truncated }}
+				<!-- This <div> includes a read more link, but only if the summary is truncated... -->
+				<div>
+					<a href="{{ .RelPermalink }}">Read More…</a>
+				</div>
+			{{ end }}
 		</div>
 		{{ end }}
 	</main>

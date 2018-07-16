@@ -50,9 +50,10 @@ theme = "airspace-hugo"
   # This license is offered with a 50% discount for all Hugo users.
   # For information see https://github.com/gohugoio/hugoThemes/issues/260
 
-  date_format = "6 January 2006"
+ #date_format = "6 January 2006"
+ date_format = "Mon, Jan 2, 2006"
 
-  home = "Home"
+  #home = "Home"
 
   [params.slider]
     enable = true
@@ -66,7 +67,7 @@ theme = "airspace-hugo"
     paragraph = "'Penta' or 'PNT', short for 'Penta Network' is a next generation blockchain platform for both public and private  projects. Penta is designed to be a premier platform for transferring value, and operating high-performance decentralized applications. It will remove roadblocks, reshaping the blockchain landscape with an emphasis on contributing to the real economy. Penta's unique consensus algorithm (DSC) and a truly distributed network architecture is building the world’s most inclusive, equitable, and decentralized blockchain community."
   [params.blog]
     enable = true
-    title = "Get The Latest On What We're doing"
+    title = "Latest On Penta Global"
     subtitle = "Catch up with us, anytime and anywhere"
 
   [params.feature]
@@ -81,7 +82,7 @@ theme = "airspace-hugo"
 
   [params.call]
     enable = true
-    title = "We design delightful digital experiences."
+    title = "Technology Without Borders or Limits"
     paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
 
   [params.contact]
