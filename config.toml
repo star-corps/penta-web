@@ -25,7 +25,7 @@ theme = "airspace-hugo"
   [[menu.footer]]
     weight = 1
     name = "About us"
-    url = "#"
+    url = "/#intro"
   [[menu.footer]]
     weight = 2
     name = "Contact us"
