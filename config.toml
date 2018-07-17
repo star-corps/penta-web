@@ -64,7 +64,7 @@ theme = "airspace-hugo"
     enable = true
     title = "About"
     italic = "We are currently living in the Blockchain revolution. From the simpiliest tasks to industry disrupting applications, The Blockchain data structure is poised to revolutionize the modern world, and Penta is the next-gen platform to change everything."
-    paragraph = "'Penta' or 'PNT', short for Penta Network, is a next generation blockchain platform for both public and private projects. Penta is designed to be a premier platform for transferring value, and operating high-performance decentralized applications. Penta will remove roadblocks and reshape the blockchain landscape with an emphasis on contributing to the real economy. Penta's unique consensus algorithm (DSC) and it's truly distributed network architecture is building the world’s most inclusive, equitable, and decentralized blockchain community."
+    paragraph = "'Penta' or 'PNT', short for Penta Network, is a next generation blockchain platform for both public and private projects. Designed to be a premier platform for transferring value, and operating high-performance decentralized applications Penta will remove roadblocks and reshape the blockchain landscape. With an emphasis on contributing to the real economy, Penta's unique consensus algorithm (DSC) and its truly distributed network architecture is building the world’s most inclusive, equitable, and decentralized blockchain community."
   [params.blog]
     enable = true
     title = "Latest On Penta Global"
@@ -74,8 +74,8 @@ theme = "airspace-hugo"
     enable = true
     title = "We believe in great ideas"
     content1 = "The Penta Network is designed to connect to a wide range of blockchain networks, existing digital networks and off-chain systems. Penta is first in providing a comprehensive solution to the blockchain interoperability problem."
-    content2 = "At the core of the Penta Network is a robust public blockchain infrastructure that supports a high-performance application platform. In the same way you download apps from an App Store onto your smart device, you will be able to access decentralized applications (DApps) that run on the Penta blockchain. DAPPS launched on Penta will be able to navigate digital networks as productive tools for the digital economy."
-    content3 = "The mission of Penta is to become the “Universal Blockchain Connector” through unique, innovative technology and a commitment to building an inclusive and decentralized community that connects blockchain technology to the world."
+    content2 = "At its core is a robust public blockchain infrastructure that supports a high-performance application platform. In the same way you download apps onto your smart device from an App Store, you will be able to access decentralized applications (DApps) to run on the Penta blockchain. Launching a Penta DApp will enable everyone to navigate digital networks as productive tools for the digital economy."
+    content3 = "The mission of Penta is to become the “Universal Blockchain Connector” through unique, innovative technology and a commitment to building an inclusive and decentralized community connecting the world to blockchain technology."
     [params.feature.button]
       caption = "View Works"
       url = "/work"
@@ -83,12 +83,12 @@ theme = "airspace-hugo"
   [params.call]
     enable = true
     title = "Technology Without Borders or Limits"
-    paragraph = "Read more about what we do and our philosophy of design. Judge for yourself The work and results we’ve achieved for other clients, and meet our highly experienced Team who just love to design."
+    paragraph = "With the capacity to transform how people, organizations, government and business transact. "
 
   [params.contact]
     enable = true
     title = "Drop us a note"
-    subtitle = "Don’t just take our word for it. Check out some of our latest work."
+    subtitle = "We are building an inclusive community."
     [params.contact.form]
       name = "Your name"
       email = "Your email"

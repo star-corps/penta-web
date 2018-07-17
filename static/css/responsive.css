@@ -188,7 +188,7 @@ p {
     font-size: 18px;
   }
   p {
-    font-size: 13px;
+    font-size: 14px;
   }
   header .navbar-default .navbar-toggle {
     margin-top: 20px;
@@ -202,24 +202,36 @@ p {
     padding-left: 0px;
   }
   #slider .block h1 {
-    font-size: 26px;
-    font-weight: 300;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 5px;
     line-height: 28px;
-    padding-bottom: 0px;
+    padding-bottom: 5px;
   }
   #slider .block p {
     font-size: 15px;
+    font-weight: 400;
     line-height: 20px;
+    letter-spacing: 2px;
+  }
+  #global-header .block {
+    padding: 0;
+    margin-top: -35px;
   }
   #global-header .block h1 {
     font-size: 26px;
     font-weight: 300;
-    line-height: 28px;
+    line-height: 34px;
     padding-bottom: 0px;
+    text-align: left;
+    letter-spacing: 2px;
   }
   #global-header .block p {
     font-size: 15px;
-    line-height: 20px;
+    line-height: 19px;
+    text-align: left;
+    letter-spacing: 2px;
+    font-weight: 400;
   }
   .post-area a:link, .post-area a:visited {
     font-size: 13px;
@@ -254,7 +266,13 @@ p {
   /*--
 	call-to-action Start 
 --*/
+  #call-to-action h2 {
+    font-size: 26px;
+    font-weight: normal;
+  }
+
   #call-to-action p {
+    font-size: 16px;
     padding: 0px 0px 40px;
   }
   #call-to-action .btn {

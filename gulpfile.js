@@ -29,6 +29,8 @@ const server = require('gulp-server-livereload');
 const replaceblocks = require('gulp-replace-build-block');
 const syncy = require('syncy');
 const dirSync = require( 'gulp-directory-sync' );
+const merge = require('merge2')
+
 var bases = {
     in: './',
     dist: './public/',
@@ -113,7 +115,7 @@ gulp.task('sass', ()=>{
 
 /** 
  * @function html
- * @desc generate minimized html 
+ * @desc generate minimized html; combine  this task as part of smash / replaceblocks
 */
 gulp.task('html', ()=>{
     console.log('... generating minimized html from: ', paths.html, ' to: ', bases.dist)
@@ -126,27 +128,101 @@ gulp.task('html', ()=>{
 
 /**
  * @function smash
- * @desc smash together js files to reduce load times :)
+ * @desc smash together js and css files to reduce load times using build block within index.html :)
  */
 gulp.task('smash', ()=> {
     console.log('... generating smashed from: ', paths.html, ' to: ', bases.dist)
     return gulp.src('./public/index.html')
     .pipe(useref())
     .pipe(gulpIf('*.js', uglify({mangle:false}).on('error', gutil.log)))
-    .pipe(gulp.dest(bases.dist));
+    .pipe(gulp.dest('./public'));
 });
 /**
  * @function htmlreplace
- * @desc smash together js files to reduce load times :)
+ * @desc smash together js and css files to reduce load times :)
  */
 gulp.task('replace', ()=> {
-    return gulp.src('./public/work/index.html')
+    return gulp.src(['./public/work/index.html','./public/service/index.html', './public/tags/index.html', './public/tags/**/index.html'])
     .pipe(replaceblocks())
-    .pipe(gulp.dest('./public/work/'));
+    .pipe(gulp.dest('./public'));
+});
+var indexesConfig = [
+	{
+		src: './public/work/index.html',
+		dest: './public/work'
+	},
+	{
+		src: './public/service/index.html',
+		dest: './public/service'
+    },
+    {
+		src: './public/tags/index.html',
+		dest: './public/tags'
+	},
+	{
+		src: './public/tags/**/index.html',
+		dest: './public/tags/'
+	},
+    {
+		src: './public/blog/index.html',
+		dest: './public/blog'
+	},
+	{
+		src: './public/blog/**/index.html',
+		dest: './public/blog/'
+	},
+    {
+		src: './public/categories/index.html',
+		dest: './public/categories'
+	},
+	{
+		src: './public/categories/**/index.html',
+		dest: './public/categories/'
+    },
+    {
+		src: './public/contact/index.html',
+		dest: './public/contact/'
+	}
+];
+gulp.task('replaceblocks', function() {
+	// we use the array map function to map each
+	// entry in our configuration array to a function
+	var tasks = indexesConfig.map(function(entry) {
+		// the parameter we get is this very entry. In
+		// that case, an object containing src, name and
+		// dest.
+		// So here we create a Gulp stream as we would
+		// do if we just handle one set of files
+		return gulp.src(entry.src)
+			.pipe(replaceblocks())
+			.pipe(gulp.dest(entry.dest))
+	});
+	// tasks now includes an array of Gulp streams. Use
+	// the `merge-stream` module to combine them into one
+	return merge(tasks);
+});
+gulp.task('smashindexes', function() {
+	// we use the array map function to map each
+	// entry in our configuration array to a function
+	var tasks = indexesConfig.map(function(entry) {
+		// the parameter we get is this very entry. In
+		// that case, an object containing src, name and
+		// dest.
+		// So here we create a Gulp stream as we would
+		// do if we just handle one set of files
+		return gulp.src(entry.src)
+            .pipe(htmlmin({
+                collapseWhitespace: true
+            }))
+			.pipe(gulp.dest(entry.dest))
+	});
+	// tasks now includes an array of Gulp streams. Use
+	// the `merge-stream` module to combine them into one
+	return merge(tasks);
 });
 /**
  * @function docs
- * @desc create a docs/ for gh-pages
+ * @desc create a docs/ for gh-pages; not used at present
  */
 function done(err) {
     let msg = err ? err : 'sync carried out successfully';
@@ -162,13 +238,16 @@ gulp.task('docs', ()=> {
     .pipe(replaceblocks())
     .pipe(gulp.dest('./docs'));
 });
+
+
+
 /**
  * @function server
  * @desc spin up a server at localhost:8000
  * see https://github.com/hiddentao/gulp-server-livereload
  */
 gulp.task('server', ()=> {
-    gulp.src('docs')
+    gulp.src('public')
       .pipe(server({
         livereload: true,
         open: true
@@ -176,7 +255,7 @@ gulp.task('server', ()=> {
   });
 /** 
  * @function compressjs
- * @desc generate .min.js from .js;
+ * @desc generate .min.js from .js; not used at present, use smash instead
 */
 gulp.task('compressjs', ()=>{
     console.log('... generate minimized js from: ', paths.scripts, ' to: ', paths.js);

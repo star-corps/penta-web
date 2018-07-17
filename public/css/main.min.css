@@ -39,6 +39,7 @@
 	
 .owl-carousel .owl-item{
 	float: left;
+	padding-bottom: 15px;
 }
 .owl-controls .owl-page,
 .owl-controls .owl-buttons div{
@@ -255,6 +256,8 @@ a:active,
 a:focus,
 a:active {
   text-decoration: none !important;
+  color: #4b337f;
+
 }
 .section-title {
   margin-bottom: 70px;
@@ -297,6 +300,9 @@ header .navbar-default .navbar-nav li a {
 }
 font header .navbar-default .navbar-nav li a:hover {
   color: #000;
+}
+.block {
+  padding: 0 10px;
 }
 /*---------------------------------------------
 					Index Start
@@ -424,7 +430,7 @@ font header .navbar-default .navbar-nav li a:hover {
   font-size: 30px;
 }
 #call-to-action p {
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1.6;
 }
 #call-to-action .btn-call-to-action {
@@ -519,6 +525,11 @@ font header .navbar-default .navbar-nav li a:hover {
   line-height: 28px;
   font-weight: 300;
   padding-bottom: 10px;
+  text-align: justify;
+  -webkit-user-select: none;  /* Chrome all / Safari all */
+  -moz-user-select: none;     /* Firefox all */
+  -ms-user-select: none;      /* IE 10+ */
+  user-select: none;          /* Likely future */      
 }
 #testimonial .testimonial-carousel .user img {
   padding-bottom: 0px;
@@ -611,22 +622,26 @@ font header .navbar-default .navbar-nav li a:hover {
 #global-header .block {
   color: #E3E3E4;
   margin: 0 auto;
-  padding-left: 90px;
-  text-align: center;
+  padding: 10px 0 0 90px;
+ /* text-align: center; */
 }
 #global-header .block h1 {
-  font-weight: 100;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 350;
   font-size: 45px;
   letter-spacing: 6px;
-  padding-bottom: 15px;
+  /*padding-bottom: 15px;*/
   margin-top: 0;
+  line-height: 60px;
   text-transform: capitalize;
 }
 #global-header .block p {
-  font-size: 16px;
+  font-size: 28px;
+  line-height: 40px;
+  font-family: 'Roboto', sans-serif;
   font-weight: 300;
-  letter-spacing: 1px;
-  word-spacing: 3px;
+  letter-spacing: 3px;
+ /* word-spacing: 3px; */
 }
 /*--
 	portfolio-work Start
@@ -1064,10 +1079,15 @@ footer .footer-manu ul li a:hover {
 }
 
 .post-area a:link, .post-area a:visited {
-  font-size: 30px;
-  color: #333;
-}
+  font-size: 15px;
+ /* color: #333; */
+ color: #4b337f;
 
+}
+.post-area a.post-title:link, .post-area a.post-title:visited {
+  font-size: 18px;
+  font-weight: bolder;
+}
 .post-area a:hover {
   color: #0D0017;
 }
@@ -4436,16 +4456,31 @@ cols    1     2      3
 px      68    160    252    */
 @media only screen and (max-width: 767px) {
   /*---------------------------------------------
-					Index Start 
+          Index Start 
+          h2 {
+  font-size: 30px;
+  font-weight: 400;
+}
+h3 {
+  font-size: 28px;
+  font-weight: 300;
+}
+p {
+  font-size: 15px;
+  line-height: 28px;
+}
 -----------------------------------------------*/
   .heading {
     padding-left: 0px;
+  }
+  h1 {
+    font-size: 21px;
   }
   h2 {
     font-size: 18px;
   }
   p {
-    font-size: 13px;
+    font-size: 14px;
   }
   header .navbar-default .navbar-toggle {
     margin-top: 20px;
@@ -4459,14 +4494,44 @@ px      68    160    252    */
     padding-left: 0px;
   }
   #slider .block h1 {
-    font-size: 26px;
-    font-weight: 300;
+    font-size: 30px;
+    font-weight: 400;
+    letter-spacing: 5px;
     line-height: 28px;
-    padding-bottom: 0px;
+    padding-bottom: 5px;
   }
   #slider .block p {
     font-size: 15px;
+    font-weight: 400;
     line-height: 20px;
+    letter-spacing: 2px;
+  }
+  #global-header .block {
+    padding: 0;
+    margin-top: -35px;
+  }
+  #global-header .block h1 {
+    font-size: 26px;
+    font-weight: 300;
+    line-height: 34px;
+    padding-bottom: 0px;
+    text-align: left;
+    letter-spacing: 2px;
+  }
+  #global-header .block p {
+    font-size: 15px;
+    line-height: 19px;
+    text-align: left;
+    letter-spacing: 2px;
+    font-weight: 400;
+  }
+  .post-area a:link, .post-area a:visited {
+    font-size: 13px;
+    color: #4b337f;
+  }
+  .post-area a.post-title:link, .post-area a.post-title:visited {
+    font-size: 15px;
+    font-weight: bolder;
   }
   /*--
 	wrapper Start 
@@ -4493,7 +4558,13 @@ px      68    160    252    */
   /*--
 	call-to-action Start 
 --*/
+  #call-to-action h2 {
+    font-size: 26px;
+    font-weight: normal;
+  }
+
   #call-to-action p {
+    font-size: 16px;
     padding: 0px 0px 40px;
   }
   #call-to-action .btn {
