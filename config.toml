@@ -63,7 +63,7 @@ theme = "airspace-hugo"
   [params.wrapper]
     enable = true
     title = "About"
-    italic = "We are currently living in the Blockchain revolution. From the simpiliest tasks to industry disrupting applications, The Blockchain data structure is poised to revolutionize the modern world, and Penta is the next-gen platform to change everything."
+    italic = "We are currently living in the Blockchain revolution. From the simplest tasks to industry disrupting applications, the Blockchain data structure is poised to transform the modern world, and Penta is the next-gen platform the future will use to change everything."
     paragraph = "'Penta' or 'PNT', short for Penta Network, is a next generation blockchain platform for both public and private projects. Designed to be a premier platform for transferring value, and operating high-performance decentralized applications Penta will remove roadblocks and reshape the blockchain landscape. With an emphasis on contributing to the real economy, Penta's unique consensus algorithm (DSC) and its truly distributed network architecture is building the world’s most inclusive, equitable, and decentralized blockchain community."
   [params.blog]
     enable = true
