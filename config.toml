@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 
   [[menu.header]]
     weight = 2
-    name = "Work"
+    name = "Projects"
     url = "/work"
   [[menu.header]]
     weight = 3
@@ -77,7 +77,7 @@ theme = "airspace-hugo"
     content2 = "At its core is a robust public blockchain infrastructure that supports a high-performance application platform. In the same way you download apps onto your smart device from an App Store, you will be able to access decentralized applications (DApps) to run on the Penta blockchain. Launching a Penta DApp will enable everyone to navigate digital networks as productive tools for the digital economy."
     content3 = "The mission of Penta is to become the “Universal Blockchain Connector” through unique, innovative technology and a commitment to building an inclusive and decentralized community connecting the world to blockchain technology."
     [params.feature.button]
-      caption = "View Works"
+      caption = "View our projects"
       url = "/work"
 
   [params.call]
