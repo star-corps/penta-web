@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Penta Global</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Buyback</title>
+      <link>/tags/buyback/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>/tags/buyback/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Go</title>
@@ -21,29 +30,29 @@
     </item>
     
     <item>
-      <title>Golang</title>
-      <link>/tags/golang/</link>
+      <title>Macroeconomics</title>
+      <link>/tags/macroeconomics/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>/tags/golang/</guid>
+      <guid>/tags/macroeconomics/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hugo</title>
-      <link>/tags/hugo/</link>
+      <title>Penta</title>
+      <link>/tags/penta/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>/tags/hugo/</guid>
+      <guid>/tags/penta/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Ipsum</title>
-      <link>/tags/ipsum/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
+      <title>Penta Governance Blockchain</title>
+      <link>/tags/penta-governance-blockchain/</link>
+      <pubDate>Fri, 13 Jul 2018 13:39:46 +0200</pubDate>
       
-      <guid>/tags/ipsum/</guid>
+      <guid>/tags/penta-governance-blockchain/</guid>
       <description></description>
     </item>
     
@@ -57,18 +66,27 @@
     </item>
     
     <item>
-      <title>Programming</title>
-      <link>/tags/programming/</link>
+      <title>Secondary Markets</title>
+      <link>/tags/secondary-markets/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>/tags/programming/</guid>
+      <guid>/tags/secondary-markets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sports Lfe Penta Blockchain</title>
+      <link>/tags/sports-lfe-penta-blockchain/</link>
+      <pubDate>Wed, 11 Jul 2018 21:49:20 +0200</pubDate>
+      
+      <guid>/tags/sports-lfe-penta-blockchain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Theme</title>
       <link>/tags/theme/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
       <guid>/tags/theme/</guid>
       <description></description>

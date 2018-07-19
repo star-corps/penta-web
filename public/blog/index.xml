@@ -6,10 +6,30 @@
     <description>Recent content in Blogs on Penta Global</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Jun 2018 15:03:01 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jul 2018 13:39:46 +0200</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Penta Network Governance</title>
+      <link>/blog/penta-network-governance/</link>
+      <pubDate>Fri, 13 Jul 2018 13:39:46 +0200</pubDate>
+      
+      <guid>/blog/penta-network-governance/</guid>
+      <description>Overview
+The primary goals of the Penta public blockchain are: decentralization, fairness and trust. In order to meet these, besides Penta, any public blockchain project needs to have a clear governance structure to avoid destructive actions or misaligned intentions by the core developers, or the block producers. Penta aims for a governance process that is both transparent and robust to corruption.
+At the center of Penta’s mission to increase economic inclusion and the stability of its blockchain, is a lowering of barriers to entry and increased opportunities for stakeholders to participate in the ecosystem.</description>
+    </item>
+    
+    <item>
+      <title>LFE and Penta Partnership Announcement</title>
+      <link>/blog/lfe-penta/</link>
+      <pubDate>Wed, 11 Jul 2018 21:49:20 +0200</pubDate>
+      
+      <guid>/blog/lfe-penta/</guid>
+      <description>Announcing the biggest blockchain project in football. The London Football Exchange is joining forces with Penta, a next generation public blockchain, to build the first decentralized application for a fan-driven football community. LFE and Penta will offer fans worldwide the chance to experience football in a new and exciting way: receive access to exclusive event tickets, private tours of football clubs and stadiums, opportunities to meet with your favourite football stars and coaches, special merchandise offers, and more.</description>
+    </item>
     
     <item>
       <title>Penta (PNT) Trading on HADAX Postponed, to Open at 15:00, June 22</title>
@@ -23,24 +43,12 @@
     </item>
     
     <item>
-      <title>Migrate from Jekyll</title>
-      <link>/blog/migrate-from-jekyll/</link>
-      <pubDate>Sat, 10 Oct 2015 13:07:31 +0200</pubDate>
-      
-      <guid>/blog/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
-    </item>
-    
-    <item>
-      <title>Linked post</title>
+      <title>Penta (PNT) official announcement to the community</title>
       <link>/blog/linked-post/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
       <guid>/blog/linked-post/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+      <description>Penta (PNT) official announcement to the community The Penta Global Foundation believes that recent market pressures have driven the price of PNT far below its true value. In response, the Penta Global Foundation has decided to initiate a buyback program on secondary markets. The total buyback will be 10% of the current circulating supply, amounting to 1.8 billion PNT. As of July 16, 2018, Penta officially started the first stage of the buyback process with a total amount of 200 million PNT.</description>
     </item>
     
     <item>
@@ -51,20 +59,6 @@ menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipisc
       <guid>/blog/go-is-for-lovers/</guid>
       <description>Hugo uses the excellent go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in go templates.
 This document is a brief primer on using go templates.</description>
-    </item>
-    
-    <item>
-      <title>Hugo is for lovers</title>
-      <link>/blog/hugo-is-for-lovers/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
-      
-      <guid>/blog/hugo-is-for-lovers/</guid>
-      <description>Step 1. Install Hugo Goto hugo releases and download the appropriate version for your os and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at installing hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
     </item>
     
     <item>
