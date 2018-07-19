@@ -6,9 +6,28 @@
     <description>Recent content in Categories on Penta Global</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Announcement</title>
+      <link>/categories/announcement/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>/categories/announcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blockchain Penta</title>
+      <link>/categories/blockchain-penta/</link>
+      <pubDate>Fri, 13 Jul 2018 13:39:46 +0200</pubDate>
+      
+      <guid>/categories/blockchain-penta/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lorem</title>
@@ -20,20 +39,20 @@
     </item>
     
     <item>
-      <title>Programming</title>
-      <link>/categories/programming/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <title>News</title>
+      <link>/categories/news/</link>
+      <pubDate>Wed, 11 Jul 2018 21:49:20 +0200</pubDate>
       
-      <guid>/categories/programming/</guid>
+      <guid>/categories/news/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pseudo</title>
-      <link>/categories/pseudo/</link>
-      <pubDate>Mon, 03 Aug 2015 13:39:46 +0200</pubDate>
+      <title>Programming</title>
+      <link>/categories/programming/</link>
+      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
-      <guid>/categories/pseudo/</guid>
+      <guid>/categories/programming/</guid>
       <description></description>
     </item>
     

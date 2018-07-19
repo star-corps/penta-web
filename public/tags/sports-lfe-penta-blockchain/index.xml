@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sports Lfe Penta Blockchain on Penta Global</title>
+    <link>/tags/sports-lfe-penta-blockchain/</link>
+    <description>Recent content in Sports Lfe Penta Blockchain on Penta Global</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Jul 2018 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/sports-lfe-penta-blockchain/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LFE and Penta Partnership Announcement</title>
+      <link>/blog/lfe-penta/</link>
+      <pubDate>Wed, 11 Jul 2018 21:49:20 +0200</pubDate>
+      
+      <guid>/blog/lfe-penta/</guid>
+      <description>Announcing the biggest blockchain project in football. The London Football Exchange is joining forces with Penta, a next generation public blockchain, to build the first decentralized application for a fan-driven football community. LFE and Penta will offer fans worldwide the chance to experience football in a new and exciting way: receive access to exclusive event tickets, private tours of football clubs and stadiums, opportunities to meet with your favourite football stars and coaches, special merchandise offers, and more.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -27,7 +27,6 @@ const useref = require('gulp-useref');
 const gulpIf = require('gulp-if');
 const server = require('gulp-server-livereload');
 const replaceblocks = require('gulp-replace-build-block');
-const syncy = require('syncy');
 const dirSync = require( 'gulp-directory-sync' );
 const merge = require('merge2')
 
@@ -59,13 +58,12 @@ var createErrorHandler =function(name) {
  * @function hello 
  * @desc General gulp hello world test to make sure everything is properly installed
 */
-gulp.task('hello', ()=>{
-    console.log('Hello World');
-});
+gulp.task('hello', ()=>{   console.log('Hello World'); });
 
 /** 
  * @function build 
  * @desc complete build pipeline
+ * this is not the default build, but taken from the Penta roadmap as an example
 */
 gulp.task('build', gulpSequence(['ico', 'images', 'sass', 'html'], 'compressjs','concatjs-en', 'concatjs-zh')); //eo build
 
@@ -142,7 +140,8 @@ gulp.task('smash', ()=> {
  * @desc smash together js and css files to reduce load times :)
  */
 gulp.task('replace', ()=> {
-    return gulp.src(['./public/work/index.html','./public/service/index.html', './public/tags/index.html', './public/tags/**/index.html'])
+    console.log('... replacing js/css blocks in:',arr.toString());
+    return gulp.src(arr)
     .pipe(replaceblocks())
     .pipe(gulp.dest('./public'));
 });
@@ -186,7 +185,8 @@ var indexesConfig = [
 ];
 gulp.task('replaceblocks', function() {
 	// we use the array map function to map each
-	// entry in our configuration array to a function
+    // entry in our configuration array to a function
+
 	var tasks = indexesConfig.map(function(entry) {
 		// the parameter we get is this very entry. In
 		// that case, an object containing src, name and
@@ -196,12 +196,13 @@ gulp.task('replaceblocks', function() {
 		return gulp.src(entry.src)
 			.pipe(replaceblocks())
 			.pipe(gulp.dest(entry.dest))
-	});
+    });
+    console.log('... replacing js/css blocks in:',indexesConfig.toString());
 	// tasks now includes an array of Gulp streams. Use
 	// the `merge-stream` module to combine them into one
 	return merge(tasks);
 });
-gulp.task('smashindexes', function() {
+gulp.task('htmlIndexes', function() {
 	// we use the array map function to map each
 	// entry in our configuration array to a function
 	var tasks = indexesConfig.map(function(entry) {
@@ -215,7 +216,9 @@ gulp.task('smashindexes', function() {
                 collapseWhitespace: true
             }))
 			.pipe(gulp.dest(entry.dest))
-	});
+    });
+    console.log('minimizing html in:',indexesConfig.toString());
+
 	// tasks now includes an array of Gulp streams. Use
 	// the `merge-stream` module to combine them into one
 	return merge(tasks);
@@ -298,3 +301,15 @@ gulp.task('doc', () => {
     gulp.src(['./*.js'], {read: false})
         .pipe(jsdoc());
 });
+/*
+ * Specify if tasks run in series or parallel using `gulp.series` and `gulp.parallel`
+ * oops, this is for gulp 4, we should stay with 3.9.1 for the moment
+ */
+//var build = gulp.series();
+ /**
+ * @function build
+ * @desc Define default task that can be called by just running `gulp` from cli
+ */
+//first run: hugo
+//then: gulp which will launch the default task, which runs in series a set of subtasks
+gulp.task('default', gulpSequence('smash','replaceblocks','html','htmlIndexes'));

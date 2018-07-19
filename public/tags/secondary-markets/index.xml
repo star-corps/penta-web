@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Secondary Markets on Penta Global</title>
+    <link>/tags/secondary-markets/</link>
+    <description>Recent content in Secondary Markets on Penta Global</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/secondary-markets/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Penta (PNT) official announcement to the community</title>
+      <link>/blog/linked-post/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>/blog/linked-post/</guid>
+      <description>Penta (PNT) official announcement to the community The Penta Global Foundation believes that recent market pressures have driven the price of PNT far below its true value. In response, the Penta Global Foundation has decided to initiate a buyback program on secondary markets. The total buyback will be 10% of the current circulating supply, amounting to 1.8 billion PNT. As of July 16, 2018, Penta officially started the first stage of the buyback process with a total amount of 200 million PNT.</description>
+    </item>
+    
+  </channel>
+</rss>
