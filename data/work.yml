@@ -4,17 +4,17 @@ subtitle: Don’t just take our word for it. Check out some of our latest work.
 
 portfolio:
   - category: Branding
-    url: "#"
-    image: "/img/portfolio/work1.jpg"
-    name: Tesla Motors
+    url: "https://lfe.com/"
+    image: "/img/portfolio/lfe.jpg"
+    name: London Football Exchange
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
+      Our invovment with English sports
   - category: Websites
-    url: "#"
-    image: "/img/portfolio/work1.jpg"
-    name: Tesla Motors
+    url: "https://www.fanstime.org/english.html"
+    image: "/img/portfolio/fanstime.jpg"
+    name: Fanstime
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
+      The future of audience interaction
   - category: Graphics
     url: "#"
     image: "/img/portfolio/work2.jpg"
@@ -34,27 +34,27 @@ portfolio:
     description: >
       Labore et dolore magna aliqua. Ut enim ad
 clients:
-  - image: "/img/clients/clients-logo1.png"
+  - image: "/img/clients/clientlogo1.png"
+    url: "https://blockshine.com/"
+  - image: "/img/clients/clientlogo2.png"
     url: "#"
-  - image: "/img/clients/clients-logo2.png"
+  - image: "/img/clients/clientlogo3.png"
     url: "#"
-  - image: "/img/clients/clients-logo3.png"
+  - image: "/img/clients/clientlogo4.png"
     url: "#"
-  - image: "/img/clients/clients-logo4.png"
+  - image: "/img/clients/clientlogo5.png"
+    url: "https://www.hashcaijing.com/"
+  - image: "/img/clients/clientlogo6.png"
+    url: "https://lfe.com/"
+  - image: "/img/clients/clientlogo7.png"
     url: "#"
-  - image: "/img/clients/clients-logo5.png"
+  - image: "/img/clients/clientlogo8.png"
     url: "#"
-  - image: "/img/clients/clients-logo4.png"
+  - image: "/img/clients/clientlogo9.png"
     url: "#"
-  - image: "/img/clients/clients-logo3.png"
+  - image: "/img/clients/clientlogo10.png"
     url: "#"
-  - image: "/img/clients/clients-logo2.png"
+  - image: "/img/clients/clientlogo1.png"
     url: "#"
-  - image: "/img/clients/clients-logo1.png"
-    url: "#"
-  - image: "/img/clients/clients-logo2.png"
-    url: "#"
-  - image: "/img/clients/clients-logo3.png"
-    url: "#"
-  - image: "/img/clients/clients-logo4.png"
+  - image: "/img/clients/clientlogo2.png"
     url: "#"
