@@ -17,6 +17,9 @@ portfolio:
       Building the world's first and largest fan-driven blockchain community for football
   - category: Websites
     url: "https://www.fanstime.org/english.html"
+    image: "/img/portfolio/fanstime.jpg"
+    name: Fanstime
+    description: >
       The future of audience interaction and blockchain for media
   - category: Research
     url: "#"
@@ -36,7 +39,6 @@ portfolio:
     description: >
       Labore et dolore magna aliqua. Ut enim ad
 clients:
-  - image: "/img/clients/clients-logo1.png"
   - image: "/img/clients/clientlogo1.png"
     url: "https://blockshine.com/"
   - image: "/img/clients/clientlogo2.png"
