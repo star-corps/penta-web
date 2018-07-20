@@ -5,7 +5,7 @@ tags = ["Sports, LFE, Penta, Blockchain"]
 categories = ["News"]
 +++
 
-Announcing the biggest blockchain project in football. The London Football Exchange is joining forces with Penta, a next generation public blockchain, to build the first decentralized application for a fan-driven football community. LFE and Penta will offer fans worldwide the chance to experience football in a new and exciting way: receive access to exclusive event tickets, private tours of football clubs and stadiums, opportunities to meet with your favourite football stars and coaches, special merchandise offers, and more.
+Announcing the biggest blockchain project in football. The London Football Exchange is joining forces with Penta, a next generation public blockchain, to build the first decentralized application for a fan-driven football community.  <!--more--> LFE and Penta will offer fans worldwide the chance to experience football in a new and exciting way: receive access to exclusive event tickets, private tours of football clubs and stadiums, opportunities to meet with your favourite football stars and coaches, special merchandise offers, and more.
 
 In the words of Jim Alyward, co-founder of the London Footbal Exchange:
 

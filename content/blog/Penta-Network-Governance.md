@@ -7,7 +7,7 @@ categories = ["blockchain, Penta"]
 
 Overview
 
-The primary goals of the Penta public blockchain are: decentralization, fairness and trust. In order to meet these, besides Penta, any public blockchain project needs to have a clear governance structure to avoid destructive actions or misaligned intentions by the core developers, or the block producers. Penta aims for a governance process that is both transparent and robust to corruption.
+The primary goals of the Penta public blockchain are: decentralization, fairness and trust. In order to meet these, besides Penta, any public blockchain project needs to have a clear governance structure to avoid destructive actions or misaligned intentions by the core developers, or the block producers.  <!--more--> Penta aims for a governance process that is both transparent and robust to corruption.
 
 At the center of Penta’s mission to increase economic inclusion and the stability of its blockchain, is a lowering of barriers to entry and increased opportunities for stakeholders to participate in the ecosystem. Through fair incentive allocations, and stable core architecture, Penta has pioneered innovative technology and social governance mechanisms so as to thrive in the emerging Smart Economy.
 
