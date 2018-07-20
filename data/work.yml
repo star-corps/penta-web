@@ -10,12 +10,15 @@ portfolio:
     description: >
       Blockchain Rice: a food traceability and  supply chain project that touches over 30,000 rice growers and allows consumers to ensure food safety using blockchain technology.
   - category: Websites
-    url: "#"
+    url: "https://lfe.com/"
     image: "/img/projects/lfe.jpg"
     name: Penta - London Football Exchange
     description: >
       Building the world's first and largest fan-driven blockchain community for football
-  - category: Education
+  - category: Websites
+    url: "https://www.fanstime.org/english.html"
+      The future of audience interaction and blockchain for media
+  - category: Research
     url: "#"
     image: "/img/projects/pentax.jpg"
     name: Penta Lab
@@ -34,26 +37,27 @@ portfolio:
       Labore et dolore magna aliqua. Ut enim ad
 clients:
   - image: "/img/clients/clients-logo1.png"
+  - image: "/img/clients/clientlogo1.png"
+    url: "https://blockshine.com/"
+  - image: "/img/clients/clientlogo2.png"
     url: "#"
-  - image: "/img/clients/clients-logo2.png"
+  - image: "/img/clients/clientlogo3.png"
     url: "#"
-  - image: "/img/clients/clients-logo3.png"
+  - image: "/img/clients/clientlogo4.png"
     url: "#"
-  - image: "/img/clients/clients-logo4.png"
+  - image: "/img/clients/clientlogo5.png"
+    url: "https://www.hashcaijing.com/"
+  - image: "/img/clients/clientlogo6.png"
+    url: "https://lfe.com/"
+  - image: "/img/clients/clientlogo7.png"
     url: "#"
-  - image: "/img/clients/clients-logo5.png"
+  - image: "/img/clients/clientlogo8.png"
     url: "#"
-  - image: "/img/clients/clients-logo4.png"
+  - image: "/img/clients/clientlogo9.png"
     url: "#"
-  - image: "/img/clients/clients-logo3.png"
+  - image: "/img/clients/clientlogo10.png"
     url: "#"
-  - image: "/img/clients/clients-logo2.png"
+  - image: "/img/clients/clientlogo1.png"
     url: "#"
-  - image: "/img/clients/clients-logo1.png"
-    url: "#"
-  - image: "/img/clients/clients-logo2.png"
-    url: "#"
-  - image: "/img/clients/clients-logo3.png"
-    url: "#"
-  - image: "/img/clients/clients-logo4.png"
+  - image: "/img/clients/clientlogo2.png"
     url: "#"
