@@ -5,28 +5,27 @@ subtitle: Don’t just take our word for it. Check out some of our latest work.
 portfolio:
   - category: Branding
     url: "#"
-    image: "/img/portfolio/work1.jpg"
-    name: Tesla Motors
+    image: "/img/projects/rice.jpg"
+    name: Blockchain Rice
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
+      Blockchain Rice: a food traceability and  supply chain project that touches over 30,000 rice growers and allows consumers to ensure food safety using blockchain technology.
   - category: Websites
     url: "#"
-    image: "/img/portfolio/work1.jpg"
-    name: Tesla Motors
+    image: "/img/projects/lfe.jpg"
+    name: Penta - London Football Exchange
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: Graphics
+      Building the world's first and largest fan-driven blockchain community for football
+  - category: Education
     url: "#"
-    image: "/img/portfolio/work2.jpg"
-    name: Tesla Motors
+    image: "/img/projects/pentax.jpg"
+    name: Penta Lab
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
-  - category: Design
-    url: "#"
-    image: "/img/portfolio/work3.jpg"
-    name: Tesla Motors
+      Engaging the research and education communities
+  - category: Education
+    image: "/img/projects/colorado.jpg"
+    name: Penta Lab and STEM
     description: >
-      Labore et dolore magna aliqua. Ut enim ad
+      STEM educational programs at all school levels
   - category: Video
     url: "#"
     image: "/img/portfolio/work4.jpg"

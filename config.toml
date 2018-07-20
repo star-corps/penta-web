@@ -38,10 +38,6 @@ theme = "airspace-hugo"
     weight = 4
     name = "Blog"
     url = "/blog"
-  [[menu.footer]]
-    weight = 5
-    name = "Terms"
-    url = "#"
 
 # The site's parameters
 [params]

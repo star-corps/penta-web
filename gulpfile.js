@@ -140,6 +140,7 @@ gulp.task('smash', ()=> {
  * @desc smash together js and css files to reduce load times :)
  */
 gulp.task('replace', ()=> {
+    var arr = ['./public/work/index.html','./public/service/index.html', './public/tags/index.html', './public/tags/**/index.html'];
     console.log('... replacing js/css blocks in:',arr.toString());
     return gulp.src(arr)
     .pipe(replaceblocks())
