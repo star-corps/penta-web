@@ -5,7 +5,7 @@ $(document).ready(function(){
 
 	$("#portfolio-contant-active").mixItUp();
 	$("#testimonial-slider").owlCarousel({
-	    paginationSpeed : 500,      
+	    paginationSpeed : 500,
 	    singleItem:true,
 	    autoPlay: 3000,
 	});
@@ -25,7 +25,7 @@ $(document).ready(function(){
 		var map;
 		function initMap() {
 		  map = new google.maps.Map(document.getElementById('map'), {
-		    center: {lat: -34.397, lng: 150.644},
+		    center: {lat: 31.082, lng: 121.48},
 		    zoom: 8
 		  });
 		}
@@ -88,7 +88,7 @@ $(document).ready(function(){
 			wait = 1;
 			count = wait - 1;
 			numToAddEachFrame = 8;
-			
+
 			//particle color
 			/*r = 70;
 			g = 255;
@@ -98,32 +98,32 @@ $(document).ready(function(){
 			r = 112;
 			g = 77;
 			b = 191;
-			
+
 			rgbString = "rgba("+r+","+g+","+b+","; //partial string for color which will be completed by appending alpha value.
 			particleAlpha = 0.3; //maximum alpha
-			
+
 			displayWidth = dustycanvas.width;
 			displayHeight = dustycanvas.height;
 
 			fLen = 320; //represents the distance from the viewer to z=0 depth.
-			
+
 			//projection center coordinates sets location of origin
 			projCenterX = displayWidth/2;
 			projCenterY = displayHeight/2;
-			
+
 			//we will not draw coordinates if they have too large of a z-coordinate (which means they are very close to the observer).
 			zMax = fLen-2;
-			
+
 			particleList = {};
 			recycleBin = {};
-			
+
 			//random acceleration factors - causes some random motion
 			randAccelX = 0.1;
 			randAccelY = 0.1;
 			randAccelZ = 0.1;
-			
+
 			gravity = 0; //try changing to a positive number (not too large, for example 0.3), or negative for floating upwards.
-			
+
 			particleRad = 3.5;
 			//sphereRad = 300;
 			sphereRad = 0.3 * dustycanvas.height;
@@ -135,14 +135,14 @@ $(document).ready(function(){
 			turnSpeed = 2*Math.PI/700; //the sphere will rotate at this speed (one complete rotation every 1600 frames).
 			turnAngle = 0; //initial angle
 			timer = setInterval(onTimer, 1000/24);
-			
+
 		}; //eo init
-		
+
 		function onTimer() {
-			//if enough time has elapsed, we will add new particles.		
+			//if enough time has elapsed, we will add new particles.
 			count++;
 				if (count >= wait) {
-							
+
 				count = 0;
 				for (i = 0; i < numToAddEachFrame; i++) {
 					theta = Math.random()*TWOPI;
@@ -150,12 +150,12 @@ $(document).ready(function(){
 					x0 = sphereRad*Math.sin(phi)*Math.cos(theta);
 					y0 = sphereRad*Math.sin(phi)*Math.sin(theta);
 					z0 = sphereRad*Math.cos(phi);
-					
+
 					//We use the addParticle function to add a new particle. The parameters set the position and velocity components.
 					//Note that the velocity parameters will cause the particle to initially fly outwards away from the sphere center (after
 					//it becomes unstuck).
 					var p = addParticle(x0, sphereCenterY + y0, sphereCenterZ + z0, 0.002*x0, 0.002*y0, 0.002*z0);
-					
+
 					//we set some "envelope" parameters which will control the evolving alpha of the particles.
 					p.attack = 50;
 					p.hold = 0; //50
@@ -163,7 +163,7 @@ $(document).ready(function(){
 					p.initValue = 0;
 					p.holdValue = particleAlpha;
 					p.lastValue = 0;
-					
+
 					//the particle will be stuck in one place until this time has elapsed:
 					p.stuckTime = 70 + Math.random()*20; //80 +
 					p.accelX = 0;
@@ -171,36 +171,36 @@ $(document).ready(function(){
 					p.accelZ = 0;
 				}
 			}
-			
+
 			//update viewing angle
 			turnAngle = (turnAngle + turnSpeed) % (2*Math.PI);
 			sinAngle = Math.sin(turnAngle);
 			cosAngle = Math.cos(turnAngle);
-	
+
 			//background fill
 			context.fillStyle = "#fff";
 			context.fillRect(0,0,displayWidth,displayHeight);
-			
+
 			//update and draw particles
 			p = particleList.first;
 			while (p != null) {
 				//before list is altered record next particle
 				nextParticle = p.next;
-				
+
 				//update age
 				p.age++;
-				
+
 				//if the particle is past its "stuck" time, it will begin to move.
-				if (p.age > p.stuckTime) {	
+				if (p.age > p.stuckTime) {
 					p.velX += p.accelX + randAccelX*(Math.random()*2 - 1);
 					p.velY += p.accelY + randAccelY*(Math.random()*2 - 1);
 					p.velZ += p.accelZ + randAccelZ*(Math.random()*2 - 1);
-					
+
 					p.x += p.velX;
 					p.y += p.velY;
 					p.z += p.velZ;
 				}
-				
+
 				/*
 				We are doing two things here to calculate display coordinates.
 				The whole display is being rotated around a vertical axis, so we first calculate rotated coordinates for
@@ -212,7 +212,7 @@ $(document).ready(function(){
 				m = fLen/(fLen - rotZ);
 				p.projX = rotX*m + projCenterX;
 				p.projY = p.y*m + projCenterY;
-					
+
 				//update alpha according to envelope parameters.
 				if (p.age < p.attack+p.hold+p.decay) {
 					if (p.age < p.attack) {
@@ -228,7 +228,7 @@ $(document).ready(function(){
 				else {
 					p.dead = true;
 				}
-				
+
 				//see if the particle is still within the viewable range.
 
 				if ((p.projX > displayWidth)||(p.projX<0)||(p.projY<0)||(p.projY>displayHeight)||(rotZ>zMax)) {
@@ -237,32 +237,32 @@ $(document).ready(function(){
 				else {
 					outsideTest = false;
 				}
-				
+
 				if (outsideTest||p.dead) {
 					recycle(p);
 				}
-				
+
 				else {
 					//depth-dependent darkening
 					depthAlphaFactor = (1-rotZ/zeroAlphaDepth);
 					depthAlphaFactor = (depthAlphaFactor > 1) ? 1 : ((depthAlphaFactor<0) ? 0 : depthAlphaFactor);
 					context.fillStyle = rgbString + depthAlphaFactor*p.alpha + ")";
-					
+
 					//draw
 					context.beginPath();
 					context.arc(p.projX, p.projY, m*particleRad, 0, 2*Math.PI, false);
 					context.closePath();
 					context.fill();
 				}
-				
+
 				p = nextParticle;
 			}
 		}; //eo onTimer
-			
+
 		function addParticle(x0,y0,z0,vx0,vy0,vz0) {
 			var newParticle;
 			var color;
-			
+
 			//check recycle bin for available drop:
 			if (recycleBin.first != null) {
 				newParticle = recycleBin.first;
@@ -279,7 +279,7 @@ $(document).ready(function(){
 			else {
 				newParticle = {};
 			}
-			
+
 			//add to beginning of particle list
 			if (particleList.first == null) {
 				particleList.first = newParticle;
@@ -292,7 +292,7 @@ $(document).ready(function(){
 				particleList.first = newParticle;
 				newParticle.prev = null;
 			}
-			
+
 			//initialize
 			newParticle.x = x0;
 			newParticle.y = y0;
@@ -308,9 +308,9 @@ $(document).ready(function(){
 			else {
 				newParticle.right = false;
 			}
-			return newParticle;		
+			return newParticle;
 		}; //eo addParticle
-		
+
 		function recycle(p) {
 			//remove from particleList
 			if (particleList.first == p) {
@@ -344,14 +344,10 @@ $(document).ready(function(){
 				p.prev = null;
 			}
 		}; //eo recycle
-		
-	//	if (!canvasSupport()) {return; }	
+
+	//	if (!canvasSupport()) {return; }
 		init();
 	}; //eo dustySphere
-	
+
 	dustycanvas ? dustySphere() : noop();
 }); //eo document.ready
-
-
-
-

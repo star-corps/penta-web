@@ -4,10 +4,10 @@ subtitle: >
   Realizing the Universal Blockchain Connector for the Smart Economy
 content:
 
-  - icon: ion-coffee
-    name: Branding
+  - icon:
+    name:
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+
 
   - icon: ion-compass
     name: Web Design
