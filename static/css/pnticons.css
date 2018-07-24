@@ -9,7 +9,7 @@
   font-style: normal;
 }
 
-[class^="icon-"], [class*=" icon-"] {
+[class^="pnt-"], [class*=" pnt-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
   speak: none;
@@ -24,21 +24,21 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-icon1:before {
+.pnt-icon1:before {
   content: "\e900";
 }
-.icon-icon2:before {
+.pnt-icon2:before {
   content: "\e901";
 }
-.icon-icon3:before {
+.pnt-icon3:before {
   content: "\e902";
 }
-.icon-icon4:before {
+.pnt-icon4:before {
   content: "\e903";
 }
-.icon-icon5:before {
+.pnt-icon5:before {
   content: "\e904";
 }
-.icon-icon6:before {
+.pnt-icon6:before {
   content: "\e905";
 }
