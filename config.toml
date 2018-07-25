@@ -33,7 +33,7 @@ theme = "airspace-hugo"
   [[menu.footer]]
     weight = 3
     name = "How it works"
-    url = "#"
+    url = "/service"
   [[menu.footer]]
     weight = 4
     name = "Blog"
