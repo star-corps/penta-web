@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Buyback</title>
+      <link>/categories/buyback/</link>
+      <pubDate>Sun, 22 Jul 2018 13:50:46 +0200</pubDate>
+      
+      <guid>/categories/buyback/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lorem</title>
       <link>/categories/lorem/</link>
       <pubDate>Wed, 20 Jun 2018 15:03:01 +0900</pubDate>
@@ -53,15 +62,6 @@
       <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
       
       <guid>/categories/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Starting</title>
-      <link>/categories/starting/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>/categories/starting/</guid>
       <description></description>
     </item>
     

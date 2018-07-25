@@ -1,0 +1,2140 @@
+.icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  stroke-width: 0;
+  stroke: currentColor;
+  fill: currentColor;
+}
+
+/* ==========================================
+Single-colored icons can be modified like so:
+.icon-name {
+  font-size: 32px;
+  color: red;
+}
+========================================== */
+
+.icon-icon1 {
+  width: 1.5791015625em;
+}
+
+.icon-icon2 {
+  width: 0.9775390625em;
+}
+
+.icon-icon3 {
+  width: 1.1083984375em;
+}
+
+.icon-icon4 {
+  width: 1.044921875em;
+}
+
+.icon-icon5 {
+  width: 0.931640625em;
+}
+
+.icon-icon6 {
+  width: 0.978515625em;
+}
+
+.icon-ion-alert {
+  width: 0.25em;
+}
+
+.icon-ion-android-add-circle {
+  width: 0.8125em;
+}
+
+.icon-ion-android-add {
+  width: 0.625em;
+}
+
+.icon-ion-android-alarm-clock {
+  width: 0.8359375em;
+}
+
+.icon-ion-android-alert {
+  width: 0.8125em;
+}
+
+.icon-ion-android-apps {
+  width: 0.625em;
+}
+
+.icon-ion-android-archive {
+  width: 0.8125em;
+}
+
+.icon-ion-android-arrow-back {
+  width: 0.66796875em;
+}
+
+.icon-ion-android-arrow-down {
+  width: 0.66796875em;
+}
+
+.icon-ion-android-arrow-dropdown-circle {
+  width: 0.8125em;
+}
+
+.icon-ion-android-arrow-dropdown {
+  width: 0.5em;
+}
+
+.icon-ion-android-arrow-dropleft-circle {
+  width: 0.8125em;
+}
+
+.icon-ion-android-arrow-dropleft {
+  width: 0.25em;
+}
+
+.icon-ion-android-arrow-dropright-circle {
+  width: 0.8125em;
+}
+
+.icon-ion-android-arrow-dropright {
+  width: 0.25em;
+}
+
+.icon-ion-android-arrow-dropup-circle {
+  width: 0.8125em;
+}
+
+.icon-ion-android-arrow-dropup {
+  width: 0.5em;
+}
+
+.icon-ion-android-arrow-forward {
+  width: 0.66796875em;
+}
+
+.icon-ion-android-arrow-up {
+  width: 0.66796875em;
+}
+
+.icon-ion-android-attach {
+  width: 0.458984375em;
+}
+
+.icon-ion-android-bar {
+  width: 0.75em;
+}
+
+.icon-ion-android-bookmark {
+  width: 0.5625em;
+}
+
+.icon-ion-android-bus {
+  width: 0.6875em;
+}
+
+.icon-ion-android-calendar {
+  width: 0.75em;
+}
+
+.icon-ion-android-call {
+  width: 0.75em;
+}
+
+.icon-ion-android-cancel {
+  width: 0.8125em;
+}
+
+.icon-ion-android-car {
+  width: 0.75em;
+}
+
+.icon-ion-android-cart {
+  width: 0.8125em;
+}
+
+.icon-ion-android-chat {
+  width: 0.8125em;
+}
+
+.icon-ion-android-checkbox-blank {
+  width: 0.75em;
+}
+
+.icon-ion-android-checkbox-outline-blank {
+  width: 0.75em;
+}
+
+.icon-ion-android-checkbox-outline {
+  width: 0.75em;
+}
+
+.icon-ion-android-checkbox {
+  width: 0.75em;
+}
+
+.icon-ion-android-checkmark-circle {
+  width: 0.8125em;
+}
+
+.icon-ion-android-clipboard {
+  width: 0.75em;
+}
+
+.icon-ion-android-close {
+  width: 0.58203125em;
+}
+
+.icon-ion-android-cloud-circle {
+  width: 0.8125em;
+}
+
+.icon-ion-android-cloud-done {
+  width: 0.9375em;
+}
+
+.icon-ion-android-cloud-outline {
+  width: 0.9375em;
+}
+
+.icon-ion-android-cloud {
+  width: 0.9375em;
+}
+
+.icon-ion-android-color-palette {
+  width: 0.75em;
+}
+
+.icon-ion-android-contact {
+  width: 0.75em;
+}
+
+.icon-ion-android-contract {
+  width: 0.75em;
+}
+
+.icon-ion-android-create {
+  width: 0.75em;
+}
+
+.icon-ion-android-delete {
+  width: 0.625em;
+}
+
+.icon-ion-android-document {
+  width: 0.625em;
+}
+
+.icon-ion-android-done {
+  width: 0.75em;
+}
+
+.icon-ion-android-download {
+  width: 0.9375em;
+}
+
+.icon-ion-android-exit {
+  width: 0.75em;
+}
+
+.icon-ion-android-expand {
+  width: 0.75em;
+}
+
+.icon-ion-android-favorite-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-android-favorite {
+  width: 0.8125em;
+}
+
+.icon-ion-android-film {
+  width: 0.625em;
+}
+
+.icon-ion-android-globe {
+  width: 0.8125em;
+}
+
+.icon-ion-android-hand {
+  width: 0.80859375em;
+}
+
+.icon-ion-android-hangout {
+  width: 0.6875em;
+}
+
+.icon-ion-android-happy {
+  width: 0.8125em;
+}
+
+.icon-ion-android-home {
+  width: 0.8125em;
+}
+
+.icon-ion-android-image {
+  width: 0.75em;
+}
+
+.icon-ion-android-list {
+  width: 0.75em;
+}
+
+.icon-ion-android-lock {
+  width: 0.625em;
+}
+
+.icon-ion-android-map {
+  width: 0.75em;
+}
+
+.icon-ion-android-menu {
+  width: 0.75em;
+}
+
+.icon-ion-android-microphone-off {
+  width: 0.796875em;
+}
+
+.icon-ion-android-microphone {
+  width: 0.625em;
+}
+
+.icon-ion-android-more-horizontal {
+  width: 0.625em;
+}
+
+.icon-ion-android-more-vertical {
+  width: 0.15625em;
+}
+
+.icon-ion-android-navigate {
+  width: 0.625em;
+}
+
+.icon-ion-android-notifications-none {
+  width: 0.6875em;
+}
+
+.icon-ion-android-notifications-off {
+  width: 0.7109375em;
+}
+
+.icon-ion-android-notifications {
+  width: 0.6875em;
+}
+
+.icon-ion-android-open {
+  width: 0.75em;
+}
+
+.icon-ion-android-person-add {
+  width: 0.9375em;
+}
+
+.icon-ion-android-person {
+  width: 0.75em;
+}
+
+.icon-ion-android-phone-portrait {
+  width: 0.5625em;
+}
+
+.icon-ion-android-pin {
+  width: 0.625em;
+}
+
+.icon-ion-android-plane {
+  width: 0.75em;
+}
+
+.icon-ion-android-playstore {
+  width: 0.8125em;
+}
+
+.icon-ion-android-print {
+  width: 0.8125em;
+}
+
+.icon-ion-android-radio-button-off {
+  width: 0.8125em;
+}
+
+.icon-ion-android-radio-button-on {
+  width: 0.8125em;
+}
+
+.icon-ion-android-refresh {
+  width: 0.6875em;
+}
+
+.icon-ion-android-remove-circle {
+  width: 0.8125em;
+}
+
+.icon-ion-android-remove {
+  width: 0.625em;
+}
+
+.icon-ion-android-restaurant {
+  width: 0.810546875em;
+}
+
+.icon-ion-android-sad {
+  width: 0.8125em;
+}
+
+.icon-ion-android-search {
+  width: 0.75em;
+}
+
+.icon-ion-android-send {
+  width: 0.8125em;
+}
+
+.icon-ion-android-settings {
+  width: 0.8125em;
+}
+
+.icon-ion-android-share-alt {
+  width: 0.75em;
+}
+
+.icon-ion-android-share {
+  width: 0.75em;
+}
+
+.icon-ion-android-star-half {
+  width: 0.7890625em;
+}
+
+.icon-ion-android-star-outline {
+  width: 0.7890625em;
+}
+
+.icon-ion-android-star {
+  width: 0.7890625em;
+}
+
+.icon-ion-android-stopwatch {
+  width: 0.75em;
+}
+
+.icon-ion-android-subway {
+  width: 0.6875em;
+}
+
+.icon-ion-android-sync {
+  width: 0.625em;
+}
+
+.icon-ion-android-textsms {
+  width: 0.75em;
+}
+
+.icon-ion-android-time {
+  width: 0.83203125em;
+}
+
+.icon-ion-android-train {
+  width: 0.6875em;
+}
+
+.icon-ion-android-unlock {
+  width: 0.625em;
+}
+
+.icon-ion-android-upload {
+  width: 0.9375em;
+}
+
+.icon-ion-android-volume-down {
+  width: 0.5625em;
+}
+
+.icon-ion-android-volume-mute {
+  width: 0.375em;
+}
+
+.icon-ion-android-volume-off {
+  width: 0.75em;
+}
+
+.icon-ion-android-volume-up {
+  width: 0.75em;
+}
+
+.icon-ion-android-walk {
+  width: 0.53125em;
+}
+
+.icon-ion-android-watch {
+  width: 0.625em;
+}
+
+.icon-ion-android-wifi {
+  width: 0.8125em;
+}
+
+.icon-ion-arrow-down-a {
+  width: 0.75em;
+}
+
+.icon-ion-arrow-down-b {
+  width: 0.625em;
+}
+
+.icon-ion-arrow-down-c {
+  width: 0.53515625em;
+}
+
+.icon-ion-arrow-expand {
+  width: 0.625em;
+}
+
+.icon-ion-arrow-left-a {
+  width: 0.75em;
+}
+
+.icon-ion-arrow-left-b {
+  width: 0.375em;
+}
+
+.icon-ion-arrow-left-c {
+  width: 0.6875em;
+}
+
+.icon-ion-arrow-resize {
+  width: 0.625em;
+}
+
+.icon-ion-arrow-return-left {
+  width: 0.75em;
+}
+
+.icon-ion-arrow-return-right {
+  width: 0.75em;
+}
+
+.icon-ion-arrow-right-a {
+  width: 0.75em;
+}
+
+.icon-ion-arrow-right-b {
+  width: 0.375em;
+}
+
+.icon-ion-arrow-right-c {
+  width: 0.6875em;
+}
+
+.icon-ion-arrow-shrink {
+  width: 0.75em;
+}
+
+.icon-ion-arrow-swap {
+  width: 0.75em;
+}
+
+.icon-ion-arrow-up-a {
+  width: 0.75em;
+}
+
+.icon-ion-arrow-up-b {
+  width: 0.625em;
+}
+
+.icon-ion-arrow-up-c {
+  width: 0.53515625em;
+}
+
+.icon-ion-beaker {
+  width: 0.75em;
+}
+
+.icon-ion-bluetooth {
+  width: 0.5em;
+}
+
+.icon-ion-bonfire {
+  width: 0.75em;
+}
+
+.icon-ion-bookmark {
+  width: 0.375em;
+}
+
+.icon-ion-calculator {
+  width: 0.625em;
+}
+
+.icon-ion-camera {
+  width: 0.8125em;
+}
+
+.icon-ion-chatbox-working {
+  width: 0.8125em;
+}
+
+.icon-ion-chatbox {
+  width: 0.8125em;
+}
+
+.icon-ion-chatboxes {
+  width: 0.8125em;
+}
+
+.icon-ion-chatbubble-working {
+  width: 0.8125em;
+}
+
+.icon-ion-chatbubble {
+  width: 0.8125em;
+}
+
+.icon-ion-chatbubbles {
+  width: 0.8125em;
+}
+
+.icon-ion-checkmark-round {
+  width: 0.8125em;
+}
+
+.icon-ion-checkmark {
+  width: 0.8125em;
+}
+
+.icon-ion-chevron-left {
+  width: 0.5em;
+}
+
+.icon-ion-chevron-right {
+  width: 0.5em;
+}
+
+.icon-ion-clipboard {
+  width: 0.6875em;
+}
+
+.icon-ion-close-round {
+  width: 0.75em;
+}
+
+.icon-ion-close {
+  width: 0.75em;
+}
+
+.icon-ion-coffee {
+  width: 0.75em;
+}
+
+.icon-ion-compose {
+  width: 0.75em;
+}
+
+.icon-ion-connection-bars {
+  width: 0.6875em;
+}
+
+.icon-ion-document-text {
+  width: 0.5625em;
+}
+
+.icon-ion-document {
+  width: 0.5625em;
+}
+
+.icon-ion-egg {
+  width: 0.625em;
+}
+
+.icon-ion-eject {
+  width: 0.625em;
+}
+
+.icon-ion-email-unread {
+  width: 0.9375em;
+}
+
+.icon-ion-email {
+  width: 0.8125em;
+}
+
+.icon-ion-erlenmeyer-flask-bubbles {
+  width: 0.75em;
+}
+
+.icon-ion-erlenmeyer-flask {
+  width: 0.75em;
+}
+
+.icon-ion-female {
+  width: 0.5em;
+}
+
+.icon-ion-filing {
+  width: 0.75em;
+}
+
+.icon-ion-film-marker {
+  width: 0.8125em;
+}
+
+.icon-ion-fireball {
+  width: 0.625em;
+}
+
+.icon-ion-flag {
+  width: 0.75em;
+}
+
+.icon-ion-flame {
+  width: 0.5em;
+}
+
+.icon-ion-flash {
+  width: 0.625em;
+}
+
+.icon-ion-folder {
+  width: 0.75em;
+}
+
+.icon-ion-fork-repo {
+  width: 0.625em;
+}
+
+.icon-ion-fork {
+  width: 0.25em;
+}
+
+.icon-ion-forward {
+  width: 0.75em;
+}
+
+.icon-ion-gear-a {
+  width: 0.75em;
+}
+
+.icon-ion-gear-b {
+  width: 0.75em;
+}
+
+.icon-ion-grid {
+  width: 0.625em;
+}
+
+.icon-ion-hammer {
+  width: 0.625em;
+}
+
+.icon-ion-headphone {
+  width: 0.75em;
+}
+
+.icon-ion-heart-broken {
+  width: 0.8125em;
+}
+
+.icon-ion-heart {
+  width: 0.8125em;
+}
+
+.icon-ion-help {
+  width: 0.5em;
+}
+
+.icon-ion-home {
+  width: 0.75em;
+}
+
+.icon-ion-icecream {
+  width: 0.625em;
+}
+
+.icon-ion-information {
+  width: 0.25em;
+}
+
+.icon-ion-ionic {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-alarm-outline {
+  width: 0.7890625em;
+}
+
+.icon-ion-ios-alarm {
+  width: 0.7890625em;
+}
+
+.icon-ion-ios-americanfootball-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-americanfootball {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-arrow-back {
+  width: 0.375em;
+}
+
+.icon-ion-ios-arrow-down {
+  width: 0.625em;
+}
+
+.icon-ion-ios-arrow-forward {
+  width: 0.375em;
+}
+
+.icon-ion-ios-arrow-left {
+  width: 0.375em;
+}
+
+.icon-ion-ios-arrow-right {
+  width: 0.375em;
+}
+
+.icon-ion-ios-arrow-thin-down {
+  width: 0.375em;
+}
+
+.icon-ion-ios-arrow-thin-left {
+  width: 0.625em;
+}
+
+.icon-ion-ios-arrow-thin-right {
+  width: 0.625em;
+}
+
+.icon-ion-ios-arrow-thin-up {
+  width: 0.375em;
+}
+
+.icon-ion-ios-arrow-up {
+  width: 0.625em;
+}
+
+.icon-ion-ios-at-outline {
+  width: 0.498046875em;
+}
+
+.icon-ion-ios-at {
+  width: 0.5em;
+}
+
+.icon-ion-ios-barcode-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-barcode {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-baseball-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-baseball {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-basketball-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-basketball {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-bell-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-bell {
+  width: 0.75em;
+}
+
+.icon-ion-ios-body-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-body {
+  width: 0.75em;
+}
+
+.icon-ion-ios-bolt-outline {
+  width: 0.44140625em;
+}
+
+.icon-ion-ios-bolt {
+  width: 0.44140625em;
+}
+
+.icon-ion-ios-book-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-book {
+  width: 0.75em;
+}
+
+.icon-ion-ios-bookmarks-outline {
+  width: 0.81640625em;
+}
+
+.icon-ion-ios-bookmarks {
+  width: 0.81640625em;
+}
+
+.icon-ion-ios-box-outline {
+  width: 0.625em;
+}
+
+.icon-ion-ios-box {
+  width: 0.625em;
+}
+
+.icon-ion-ios-briefcase-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-briefcase {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-browsers-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-browsers {
+  width: 0.75em;
+}
+
+.icon-ion-ios-calculator-outline {
+  width: 0.5625em;
+}
+
+.icon-ion-ios-calculator {
+  width: 0.5625em;
+}
+
+.icon-ion-ios-calendar-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-calendar {
+  width: 0.75em;
+}
+
+.icon-ion-ios-camera-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-camera {
+  width: 0.75em;
+}
+
+.icon-ion-ios-cart-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-cart {
+  width: 0.75em;
+}
+
+.icon-ion-ios-chatboxes-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-chatboxes {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-chatbubble-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-chatbubble {
+  width: 0.75em;
+}
+
+.icon-ion-ios-checkmark-empty {
+  width: 0.404296875em;
+}
+
+.icon-ion-ios-checkmark-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-checkmark {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-circle-filled {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-circle-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-clock-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-clock {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-close-empty {
+  width: 0.375em;
+}
+
+.icon-ion-ios-close-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-close {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-cloudy-night-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-cloudy-night {
+  width: 0.75em;
+}
+
+.icon-ion-ios-cloudy-outline {
+  width: 0.53515625em;
+}
+
+.icon-ion-ios-cloudy {
+  width: 0.53515625em;
+}
+
+.icon-ion-ios-cog-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-cog {
+  width: 0.75em;
+}
+
+.icon-ion-ios-color-filter-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-color-filter {
+  width: 0.75em;
+}
+
+.icon-ion-ios-color-wand-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-color-wand {
+  width: 0.7734375em;
+}
+
+.icon-ion-ios-compose-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-compose {
+  width: 0.75em;
+}
+
+.icon-ion-ios-contact-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-contact {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-copy-outline {
+  width: 0.5625em;
+}
+
+.icon-ion-ios-copy {
+  width: 0.5625em;
+}
+
+.icon-ion-ios-crop-strong {
+  width: 0.75em;
+}
+
+.icon-ion-ios-crop {
+  width: 0.75em;
+}
+
+.icon-ion-ios-download-outline {
+  width: 0.625em;
+}
+
+.icon-ion-ios-download {
+  width: 0.625em;
+}
+
+.icon-ion-ios-drag {
+  width: 0.6875em;
+}
+
+.icon-ion-ios-email-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-email {
+  width: 0.75em;
+}
+
+.icon-ion-ios-eye-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-eye {
+  width: 0.75em;
+}
+
+.icon-ion-ios-filing-outline {
+  width: 0.6875em;
+}
+
+.icon-ion-ios-filing {
+  width: 0.6875em;
+}
+
+.icon-ion-ios-film-outline {
+  width: 0.78125em;
+}
+
+.icon-ion-ios-film {
+  width: 0.78125em;
+}
+
+.icon-ion-ios-flag-outline {
+  width: 0.5em;
+}
+
+.icon-ion-ios-flag {
+  width: 0.5em;
+}
+
+.icon-ion-ios-flame-outline {
+  width: 0.5em;
+}
+
+.icon-ion-ios-flame {
+  width: 0.5em;
+}
+
+.icon-ion-ios-flask-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-flask {
+  width: 0.75em;
+}
+
+.icon-ion-ios-football-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-football {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-gear-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-gear {
+  width: 0.75em;
+}
+
+.icon-ion-ios-grid-view-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-grid-view {
+  width: 0.75em;
+}
+
+.icon-ion-ios-help-empty {
+  width: 0.25em;
+}
+
+.icon-ion-ios-help-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-help {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-home-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-home {
+  width: 0.75em;
+}
+
+.icon-ion-ios-infinite {
+  width: 0.90625em;
+}
+
+.icon-ion-ios-information-empty {
+  width: 0.125em;
+}
+
+.icon-ion-ios-information-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-information {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-ionic-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-keypad-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-keypad {
+  width: 0.75em;
+}
+
+.icon-ion-ios-lightbulb-outline {
+  width: 0.5625em;
+}
+
+.icon-ion-ios-lightbulb {
+  width: 0.5625em;
+}
+
+.icon-ion-ios-list-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-list {
+  width: 0.75em;
+}
+
+.icon-ion-ios-location-outline {
+  width: 0.5625em;
+}
+
+.icon-ion-ios-location {
+  width: 0.5625em;
+}
+
+.icon-ion-ios-locked-outline {
+  width: 0.625em;
+}
+
+.icon-ion-ios-locked {
+  width: 0.625em;
+}
+
+.icon-ion-ios-loop {
+  width: 0.955078125em;
+}
+
+.icon-ion-ios-medical-outline {
+  width: 0.7109375em;
+}
+
+.icon-ion-ios-medical {
+  width: 0.7109375em;
+}
+
+.icon-ion-ios-medkit-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-medkit {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-mic-off {
+  width: 0.546875em;
+}
+
+.icon-ion-ios-mic-outline {
+  width: 0.5em;
+}
+
+.icon-ion-ios-mic {
+  width: 0.5em;
+}
+
+.icon-ion-ios-minus-empty {
+  width: 0.5em;
+}
+
+.icon-ion-ios-minus-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-minus {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-monitor-outline {
+  width: 0.9375em;
+}
+
+.icon-ion-ios-monitor {
+  width: 0.9375em;
+}
+
+.icon-ion-ios-moon-outline {
+  width: 0.421875em;
+}
+
+.icon-ion-ios-moon {
+  width: 0.421875em;
+}
+
+.icon-ion-ios-more-outline {
+  width: 0.625em;
+}
+
+.icon-ion-ios-more {
+  width: 0.625em;
+}
+
+.icon-ion-ios-musical-note {
+  width: 0.375em;
+}
+
+.icon-ion-ios-musical-notes {
+  width: 0.625em;
+}
+
+.icon-ion-ios-navigate-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-navigate {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-nutrition-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-nutrition {
+  width: 0.75em;
+}
+
+.icon-ion-ios-paper-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-paper {
+  width: 0.75em;
+}
+
+.icon-ion-ios-paperplane-outline {
+  width: 0.625em;
+}
+
+.icon-ion-ios-paperplane {
+  width: 0.625em;
+}
+
+.icon-ion-ios-partlysunny-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-partlysunny {
+  width: 0.75em;
+}
+
+.icon-ion-ios-pause-outline {
+  width: 0.5em;
+}
+
+.icon-ion-ios-pause {
+  width: 0.5em;
+}
+
+.icon-ion-ios-paw-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-paw {
+  width: 0.75em;
+}
+
+.icon-ion-ios-person-outline {
+  width: 0.625em;
+}
+
+.icon-ion-ios-person {
+  width: 0.625em;
+}
+
+.icon-ion-ios-personadd-outline {
+  width: 0.625em;
+}
+
+.icon-ion-ios-personadd {
+  width: 0.625em;
+}
+
+.icon-ion-ios-pint-outline {
+  width: 0.4375em;
+}
+
+.icon-ion-ios-pint {
+  width: 0.4375em;
+}
+
+.icon-ion-ios-play-outline {
+  width: 0.5em;
+}
+
+.icon-ion-ios-play {
+  width: 0.5em;
+}
+
+.icon-ion-ios-plus-empty {
+  width: 0.5em;
+}
+
+.icon-ion-ios-plus-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-plus {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-pricetag-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-pricetag {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-printer-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-printer {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-pulse-strong {
+  width: 0.9375em;
+}
+
+.icon-ion-ios-rainy-outline {
+  width: 0.5625em;
+}
+
+.icon-ion-ios-rainy {
+  width: 0.5625em;
+}
+
+.icon-ion-ios-recording-outline {
+  width: 0.9375em;
+}
+
+.icon-ion-ios-recording {
+  width: 0.9375em;
+}
+
+.icon-ion-ios-redo-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-redo {
+  width: 0.75em;
+}
+
+.icon-ion-ios-refresh-empty {
+  width: 0.5em;
+}
+
+.icon-ion-ios-refresh-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-refresh {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-reverse-camera-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-reverse-camera {
+  width: 0.75em;
+}
+
+.icon-ion-ios-rose-outline {
+  width: 0.625em;
+}
+
+.icon-ion-ios-rose {
+  width: 0.625em;
+}
+
+.icon-ion-ios-search-strong {
+  width: 0.75em;
+}
+
+.icon-ion-ios-search {
+  width: 0.75em;
+}
+
+.icon-ion-ios-shuffle-strong {
+  width: 0.75em;
+}
+
+.icon-ion-ios-shuffle {
+  width: 0.75em;
+}
+
+.icon-ion-ios-skipbackward-outline {
+  width: 0.625em;
+}
+
+.icon-ion-ios-skipbackward {
+  width: 0.625em;
+}
+
+.icon-ion-ios-skipforward-outline {
+  width: 0.625em;
+}
+
+.icon-ion-ios-skipforward {
+  width: 0.625em;
+}
+
+.icon-ion-ios-snowy {
+  width: 0.5em;
+}
+
+.icon-ion-ios-stopwatch-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-stopwatch {
+  width: 0.75em;
+}
+
+.icon-ion-ios-sunny-outline {
+  width: 0.625em;
+}
+
+.icon-ion-ios-sunny {
+  width: 0.625em;
+}
+
+.icon-ion-ios-telephone-outline {
+  width: 0.6875em;
+}
+
+.icon-ion-ios-telephone {
+  width: 0.6875em;
+}
+
+.icon-ion-ios-tennisball-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-tennisball {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-thunderstorm-outline {
+  width: 0.53515625em;
+}
+
+.icon-ion-ios-thunderstorm {
+  width: 0.53515625em;
+}
+
+.icon-ion-ios-timer-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-timer {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-trash-outline {
+  width: 0.5625em;
+}
+
+.icon-ion-ios-trash {
+  width: 0.5625em;
+}
+
+.icon-ion-ios-undo-outline {
+  width: 0.75em;
+}
+
+.icon-ion-ios-undo {
+  width: 0.75em;
+}
+
+.icon-ion-ios-unlocked-outline {
+  width: 0.625em;
+}
+
+.icon-ion-ios-unlocked {
+  width: 0.625em;
+}
+
+.icon-ion-ios-upload-outline {
+  width: 0.625em;
+}
+
+.icon-ion-ios-upload {
+  width: 0.625em;
+}
+
+.icon-ion-ios-videocam-outline {
+  width: 0.81640625em;
+}
+
+.icon-ion-ios-videocam {
+  width: 0.81640625em;
+}
+
+.icon-ion-ios-volume-high {
+  width: 0.625em;
+}
+
+.icon-ion-ios-volume-low {
+  width: 0.25em;
+}
+
+.icon-ion-ios-wineglass-outline {
+  width: 0.375em;
+}
+
+.icon-ion-ios-wineglass {
+  width: 0.375em;
+}
+
+.icon-ion-ios-world-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-ios-world {
+  width: 0.8125em;
+}
+
+.icon-ion-ipad {
+  width: 0.5625em;
+}
+
+.icon-ion-iphone {
+  width: 0.375em;
+}
+
+.icon-ion-ipod {
+  width: 0.4375em;
+}
+
+.icon-ion-jet {
+  width: 0.63671875em;
+}
+
+.icon-ion-key {
+  width: 0.375em;
+}
+
+.icon-ion-knife {
+  width: 0.125em;
+}
+
+.icon-ion-leaf {
+  width: 0.82421875em;
+}
+
+.icon-ion-levels {
+  width: 0.68359375em;
+}
+
+.icon-ion-lightbulb {
+  width: 0.5em;
+}
+
+.icon-ion-link {
+  width: 0.75em;
+}
+
+.icon-ion-load-a {
+  width: 0.75em;
+}
+
+.icon-ion-load-d {
+  width: 0.75em;
+}
+
+.icon-ion-location {
+  width: 0.466796875em;
+}
+
+.icon-ion-lock-combination {
+  width: 0.75em;
+}
+
+.icon-ion-locked {
+  width: 0.75em;
+}
+
+.icon-ion-loop {
+  width: 0.65234375em;
+}
+
+.icon-ion-magnet {
+  width: 0.75em;
+}
+
+.icon-ion-man {
+  width: 0.328125em;
+}
+
+.icon-ion-merge {
+  width: 0.75em;
+}
+
+.icon-ion-mic-a {
+  width: 0.5625em;
+}
+
+.icon-ion-mic-b {
+  width: 0.3125em;
+}
+
+.icon-ion-mic-c {
+  width: 0.5em;
+}
+
+.icon-ion-minus-round {
+  width: 0.75em;
+}
+
+.icon-ion-minus {
+  width: 0.75em;
+}
+
+.icon-ion-more {
+  width: 0.75em;
+}
+
+.icon-ion-mouse {
+  width: 0.5em;
+}
+
+.icon-ion-music-note {
+  width: 0.75em;
+}
+
+.icon-ion-navicon-round {
+  width: 0.75em;
+}
+
+.icon-ion-navicon {
+  width: 0.625em;
+}
+
+.icon-ion-network {
+  width: 0.75em;
+}
+
+.icon-ion-paintbucket {
+  width: 0.9375em;
+}
+
+.icon-ion-paperclip {
+  width: 0.3125em;
+}
+
+.icon-ion-pause {
+  width: 0.5em;
+}
+
+.icon-ion-person {
+  width: 0.75em;
+}
+
+.icon-ion-pin {
+  width: 0.4375em;
+}
+
+.icon-ion-pizza {
+  width: 0.6875em;
+}
+
+.icon-ion-play {
+  width: 0.625em;
+}
+
+.icon-ion-plus-round {
+  width: 0.75em;
+}
+
+.icon-ion-plus {
+  width: 0.75em;
+}
+
+.icon-ion-pull-request {
+  width: 0.75em;
+}
+
+.icon-ion-qr-scanner {
+  width: 0.8125em;
+}
+
+.icon-ion-quote {
+  width: 0.75em;
+}
+
+.icon-ion-record {
+  width: 0.8125em;
+}
+
+.icon-ion-reply-all {
+  width: 0.8125em;
+}
+
+.icon-ion-reply {
+  width: 0.75em;
+}
+
+.icon-ion-ribbon-a {
+  width: 0.6875em;
+}
+
+.icon-ion-ribbon-b {
+  width: 0.75em;
+}
+
+.icon-ion-scissors {
+  width: 0.75em;
+}
+
+.icon-ion-search {
+  width: 0.75em;
+}
+
+.icon-ion-settings {
+  width: 0.8125em;
+}
+
+.icon-ion-share {
+  width: 0.75em;
+}
+
+.icon-ion-skip-backward {
+  width: 0.75em;
+}
+
+.icon-ion-skip-forward {
+  width: 0.75em;
+}
+
+.icon-ion-social-android-outline {
+  width: 0.6875em;
+}
+
+.icon-ion-social-android {
+  width: 0.6875em;
+}
+
+.icon-ion-social-apple-outline {
+  width: 0.625em;
+}
+
+.icon-ion-social-apple {
+  width: 0.625em;
+}
+
+.icon-ion-social-bitcoin-outline {
+  width: 0.625em;
+}
+
+.icon-ion-social-bitcoin {
+  width: 0.625em;
+}
+
+.icon-ion-social-buffer-outline {
+  width: 0.75em;
+}
+
+.icon-ion-social-buffer {
+  width: 0.75em;
+}
+
+.icon-ion-social-css3-outline {
+  width: 0.75em;
+}
+
+.icon-ion-social-css3 {
+  width: 0.75em;
+}
+
+.icon-ion-social-dribbble-outline {
+  width: 0.75em;
+}
+
+.icon-ion-social-dribbble {
+  width: 0.75em;
+}
+
+.icon-ion-social-dropbox-outline {
+  width: 0.75em;
+}
+
+.icon-ion-social-dropbox {
+  width: 0.75em;
+}
+
+.icon-ion-social-euro-outline {
+  width: 0.625em;
+}
+
+.icon-ion-social-euro {
+  width: 0.625em;
+}
+
+.icon-ion-social-facebook-outline {
+  width: 0.375em;
+}
+
+.icon-ion-social-facebook {
+  width: 0.375em;
+}
+
+.icon-ion-social-foursquare-outline {
+  width: 0.625em;
+}
+
+.icon-ion-social-foursquare {
+  width: 0.625em;
+}
+
+.icon-ion-social-google-outline {
+  width: 0.5em;
+}
+
+.icon-ion-social-google {
+  width: 0.5625em;
+}
+
+.icon-ion-social-hackernews-outline {
+  width: 0.75em;
+}
+
+.icon-ion-social-hackernews {
+  width: 0.75em;
+}
+
+.icon-ion-social-html5-outline {
+  width: 0.75em;
+}
+
+.icon-ion-social-html5 {
+  width: 0.75em;
+}
+
+.icon-ion-social-instagram-outline {
+  width: 0.75em;
+}
+
+.icon-ion-social-instagram {
+  width: 0.75em;
+}
+
+.icon-ion-social-linkedin-outline {
+  width: 0.75em;
+}
+
+.icon-ion-social-linkedin {
+  width: 0.75em;
+}
+
+.icon-ion-social-nodejs {
+  width: 0.75em;
+}
+
+.icon-ion-social-python {
+  width: 0.75em;
+}
+
+.icon-ion-social-reddit-outline {
+  width: 0.876953125em;
+}
+
+.icon-ion-social-reddit {
+  width: 0.876953125em;
+}
+
+.icon-ion-social-rss-outline {
+  width: 0.75em;
+}
+
+.icon-ion-social-rss {
+  width: 0.75em;
+}
+
+.icon-ion-social-skype-outline {
+  width: 0.75em;
+}
+
+.icon-ion-social-skype {
+  width: 0.75em;
+}
+
+.icon-ion-social-snapchat-outline {
+  width: 0.9375em;
+}
+
+.icon-ion-social-snapchat {
+  width: 0.9375em;
+}
+
+.icon-ion-social-tumblr-outline {
+  width: 0.5em;
+}
+
+.icon-ion-social-tumblr {
+  width: 0.5em;
+}
+
+.icon-ion-social-tux {
+  width: 0.748046875em;
+}
+
+.icon-ion-social-twitch-outline {
+  width: 0.8125em;
+}
+
+.icon-ion-social-twitch {
+  width: 0.8125em;
+}
+
+.icon-ion-social-twitter-outline {
+  width: 0.921875em;
+}
+
+.icon-ion-social-twitter {
+  width: 0.921875em;
+}
+
+.icon-ion-social-usd-outline {
+  width: 0.625em;
+}
+
+.icon-ion-social-usd {
+  width: 0.625em;
+}
+
+.icon-ion-social-wordpress-outline {
+  width: 0.75em;
+}
+
+.icon-ion-social-wordpress {
+  width: 0.75em;
+}
+
+.icon-ion-social-yahoo-outline {
+  width: 0.625em;
+}
+
+.icon-ion-social-yahoo {
+  width: 0.625em;
+}
+
+.icon-ion-social-yen-outline {
+  width: 0.75em;
+}
+
+.icon-ion-social-yen {
+  width: 0.75em;
+}
+
+.icon-ion-soup-can-outline {
+  width: 0.625em;
+}
+
+.icon-ion-soup-can {
+  width: 0.625em;
+}
+
+.icon-ion-spoon {
+  width: 0.25em;
+}
+
+.icon-ion-stats-bars {
+  width: 0.6875em;
+}
+
+.icon-ion-stop {
+  width: 0.75em;
+}
+
+.icon-ion-thermometer {
+  width: 0.3125em;
+}
+
+.icon-ion-thumbsdown {
+  width: 0.75em;
+}
+
+.icon-ion-thumbsup {
+  width: 0.75em;
+}
+
+.icon-ion-trash-a {
+  width: 0.6875em;
+}
+
+.icon-ion-trash-b {
+  width: 0.625em;
+}
+
+.icon-ion-unlocked {
+  width: 0.75em;
+}
+
+.icon-ion-usb {
+  width: 0.5em;
+}
+
+.icon-ion-volume-low {
+  width: 0.5625em;
+}
+
+.icon-ion-volume-medium {
+  width: 0.72265625em;
+}
+
+.icon-ion-waterdrop {
+  width: 0.625em;
+}
+
+.icon-ion-wineglass {
+  width: 0.5em;
+}
+
+.icon-ion-woman {
+  width: 0.375em;
+}

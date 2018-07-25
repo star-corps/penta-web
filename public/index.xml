@@ -6,10 +6,21 @@
     <description>Recent content on Penta Global</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 13 Jul 2018 13:39:46 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jul 2018 13:50:46 +0200</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Penta (PNT) Announcement on the First Stage of the Buyback Program</title>
+      <link>/blog/penta-buyback/</link>
+      <pubDate>Sun, 22 Jul 2018 13:50:46 +0200</pubDate>
+      
+      <guid>/blog/penta-buyback/</guid>
+      <description>&lt;p&gt;Dear Penta community members:&lt;/p&gt;
+
+&lt;p&gt;On July 16, 2018, The Penta Global Foundation initiated the first stage of a buyback program on secondary markets, amounting to a total buyback of 200 million PNT. As of 10:46am (Singapore Time) on July 23, 2018, Penta has fully completed the Stage 1 buyback.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Penta Network Governance</title>
@@ -48,7 +59,7 @@
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
       <guid>/blog/linked-post/</guid>
-      <description>Penta (PNT) official announcement to the community The Penta Global Foundation believes that recent market pressures have driven the price of PNT far below its true value. In response, the Penta Global Foundation has decided to initiate a buyback program on secondary markets. The total buyback will be 10% of the current circulating supply, amounting to 1.8 billion PNT. As of July 16, 2018, Penta officially started the first stage of the buyback process with a total amount of 200 million PNT.</description>
+      <description>Penta (PNT) official announcement to the community The Penta Global Foundation believes that recent market pressures have driven the price of PNT far below its true value. In response, the Penta Global Foundation has decided to initiate a buyback program on secondary markets.The total buyback will be 10% of the current circulating supply, amounting to 1.8 billion PNT. As of July 16, 2018, Penta officially started the first stage of the buyback process with a total amount of 200 million PNT.</description>
     </item>
     
     <item>
@@ -63,17 +74,6 @@ small amount of logic. In our experience that it is just the right amount of
 logic to be able to create a good static website.   If you have used other
 template systems from different languages or frameworks you will find a lot of
 similarities in go templates.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Creating a new theme</title>
-      <link>/blog/creating-a-new-theme/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>/blog/creating-a-new-theme/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
-
-&lt;p&gt;This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content.   I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.&lt;/p&gt;</description>
     </item>
     
     <item>
