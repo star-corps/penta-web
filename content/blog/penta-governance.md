@@ -1,20 +1,21 @@
 +++
 title = "Penta Network Governance"
-date = "2018-07-13T13:39:46+02:00"
-tags = ["Penta, governance, Blockchain"]
-categories = ["blockchain, Penta"]
+date = "2018-07-13T21:49:20+02:00"
+tags = ["Buyback", "Penta", "secondary markets", "Macroeconomics"]
+categories = ["announcement"]
+author = "Penta Global"
 +++
 
-Overview
+<b>Overview</b>
 
-The primary goals of the Penta public blockchain are: decentralization, fairness and trust. In order to meet these, besides Penta, any public blockchain project needs to have a clear governance structure to avoid destructive actions or misaligned intentions by the core developers, or the block producers.  <!--more--> Penta aims for a governance process that is both transparent and robust to corruption.
+The primary goals of the Penta public blockchain are: decentralization, fairness and trust. In order to meet these, besides Penta, any public blockchain project needs to have a clear governance structure to avoid destructive actions or misaligned intentions by the core developers, or the block producers. Penta aims for a governance process that is both transparent and robust to corruption.
 
 At the center of Penta’s mission to increase economic inclusion and the stability of its blockchain, is a lowering of barriers to entry and increased opportunities for stakeholders to participate in the ecosystem. Through fair incentive allocations, and stable core architecture, Penta has pioneered innovative technology and social governance mechanisms so as to thrive in the emerging Smart Economy.
 
-Participation in the Consensus Process
+<b>Participation in the Consensus Process
 Node Types, Definitions:
 
-1. Common Nodes
+1. Common Nodes</b>
 
 Common Nodes synchronize and keep track of shared ledgers using the Penta Client. A Common Node votes to elect delegates/witnesses, or nominate to become a Delegate/Witness by pledging (staking) PNT. Common Nodes participate in maintaining the security and high-availability of the Penta network.
 
@@ -41,6 +42,8 @@ Common Nodes can nominate to become Delegate Nodes if certain criteria are met. 
 - Participate in validating the core architecture and infrastructure of the Penta testNet as a community maintained blockchain test environment;
 
 Consensus Process Flow
+
+<img src=/img/blog/blogimg4.png alt="example one">
 
 
 1. Pledge PNT
@@ -91,6 +94,9 @@ The Incentive Plan is divided into three parts:
 
 
 Incentive Plan
+
+<img src=/img/blog/blogimg5.png alt="example two">
+
 
 PNT incentives originate from two sources:
 
