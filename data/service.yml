@@ -4,7 +4,16 @@ subtitle: >
   Realizing the Universal Blockchain Connector for the Smart Economy
 content:
 
-  - icon: pnt-icon1
+
+
+  - field_image:
+    - '#process':
+        callback: 'file'
+        args:
+          - 'image'
+          - filename: '/ico.png'
+      alt: "Don't forget the alt text."
+    icon: pnt-icon1
     name:
     text: >
 
