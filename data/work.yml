@@ -3,7 +3,7 @@ title: Just some of our latest projects
 subtitle: Don’t just take our word for it. Check out some of our latest work.
 
 portfolio:
-  - category: Branding
+  - category: Permission Chains
     url: "#"
     image: "/img/projects/rice.jpg"
     name: Blockchain Rice
@@ -32,12 +32,7 @@ portfolio:
     name: Penta Lab and STEM
     description: >
       STEM educational programs at all school levels
-  - category: Video
-    url: "#"
-    image: "/img/portfolio/work4.jpg"
-    name: Tesla Motors
-    description: >
-      Labore et dolore magna aliqua. Ut enim ad
+
 clients:
   - image: "/img/clients/clientlogo1.png"
     url: "https://blockshine.com/"
