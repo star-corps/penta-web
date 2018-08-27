@@ -1,6 +1,6 @@
 +++
 title = "Penta Announces Investment in Shares of ASX Listed Company, CCP Technologies, Using Penta’s PNT Cryptocurrency"
-date = "2018-07-17T13:47:08+02:00"
+date = "2018-08-17T13:47:08+02:00"
 tags = ["business, july"]
 categories = ["Business Innovation"]
 +++
@@ -29,4 +29,4 @@ Perhaps the most important element of this deal is the fact that Penta’s inves
 
 If this is to be the future direction of equities markets, the marriage of traditional equities and cryptocurrencies may trace their roots to back to Penta’s successful investment in CCP Technologies using PNT.
 
-[~Read Announcement on Medium](https://medium.com/penta-network/penta-announces-investment-in-shares-of-axs-listed-company-ccp-technologies-using-pentas-pnt-9f7ac1269d41) 
+[~Read Announcement on Medium](https://medium.com/penta-network/penta-announces-investment-in-shares-of-axs-listed-company-ccp-technologies-using-pentas-pnt-9f7ac1269d41)
