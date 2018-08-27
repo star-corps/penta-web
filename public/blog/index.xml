@@ -6,10 +6,30 @@
     <description>Recent content in Blogs on Penta Global</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Jul 2018 13:50:46 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 17 Aug 2018 13:47:08 +0200</lastBuildDate>
     
 	<atom:link href="/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Announcement about Strategic investment in ASX listed IoT company, CCP Technologies</title>
+      <link>/blog/penta-acquires-ccp2/</link>
+      <pubDate>Fri, 17 Aug 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/penta-acquires-ccp2/</guid>
+      <description>&lt;p&gt;Dear Penta community members:&lt;/p&gt;
+
+&lt;p&gt;Penta Global is pleased to announce the successful closing on a purchase of shares from the Australian Security Exchange (ASX) listed company, CCP Technologies (CT1) .&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>TechLog: The Penta Account Model</title>
+      <link>/blog/penta-account-model/</link>
+      <pubDate>Wed, 01 Aug 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/penta-account-model/</guid>
+      <description>&lt;p&gt;Starting in August, as part of Penta&amp;rsquo;s &amp;#39;universal connector&amp;#39; mission to be a global network that interoperates and interconnects with other projects and off-chain systems we are posting a series of technical documentation articles to Medium. The first of these outlines the Penta Account data model, and how it underpins the rest of the platform architecture.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Penta (PNT) Announcement on the First Stage of the Buyback Program</title>
@@ -23,14 +43,55 @@
     </item>
     
     <item>
-      <title>Penta Network Governance</title>
-      <link>/blog/penta-network-governance/</link>
-      <pubDate>Fri, 13 Jul 2018 13:39:46 +0200</pubDate>
+      <title>Penta weekly progress from July 16 through July 22</title>
+      <link>/blog/penta-weekly-progress-from-july-16-through-july-22/</link>
+      <pubDate>Sun, 22 Jul 2018 13:47:08 +0200</pubDate>
       
-      <guid>/blog/penta-network-governance/</guid>
-      <description>&lt;p&gt;Overview&lt;/p&gt;
-
-&lt;p&gt;The primary goals of the Penta public blockchain are: decentralization, fairness and trust. In order to meet these, besides Penta, any public blockchain project needs to have a clear governance structure to avoid destructive actions or misaligned intentions by the core developers, or the block producers.   Penta aims for a governance process that is both transparent and robust to corruption.&lt;/p&gt;</description>
+      <guid>/blog/penta-weekly-progress-from-july-16-through-july-22/</guid>
+      <description>Random Sorting Algorithm (RSA) &amp;amp; DSC Consensus Algorithm This week, the technical team continued the test automation, built an internal test environment (in a continuous integration / continuous delivery system), and optimized the performance of the core module:
+1.Optimize the DSC consensus network flow to increase the efficiency of the network protocol.
+Penta main-chain governance structure
+The development of the governance contract is in progress, and the STUB code is written to cooperate with the consensus algorithm QA.</description>
+    </item>
+    
+    <item>
+      <title>Penta Announces Investment in Shares of ASX Listed Company, CCP Technologies, Using Penta’s PNT Cryptocurrency</title>
+      <link>/blog/penta-acquires-ccp/</link>
+      <pubDate>Tue, 17 Jul 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/penta-acquires-ccp/</guid>
+      <description>&lt;p&gt;On July 17, 2018 Australian Securities Exchange (ASX) listed company, CCP Technologies (ASX:CT1), made a public announcement regarding a significant purchase of shares by the Singapore based Penta Global Blockchain Foundation.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Buterin Questions, #1 Bitmain and Affiliated Pools Now have Approximately 53% of all Bitcoin Hashpower. Isn’t this a Really Big Problem?</title>
+      <link>/blog/buterin-questions1/</link>
+      <pubDate>Tue, 17 Jul 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/buterin-questions1/</guid>
+      <description>Introduction: WeChat has some excellent channels for lively and informative discussions focussing on blockchain technologies. Ethereum co-founder Vitalik Buterin recently posted a set of blockchain ‘hard questions’ to one of these, and we are publishing responses here in Medium from Penta Global as a way to extend the conversation across the wider blockchain community, with hopes of furthering the conversation and a productive exchange of ideas.
+Q: Bitmain and affiliated pools now have approximately 53% of all bitcoin hashpower.</description>
+    </item>
+    
+    <item>
+      <title>The Buterin Questions, #2 Why Aren’t There Any Useful Large Scale Applications Yet?</title>
+      <link>/blog/buterin-questions2/</link>
+      <pubDate>Tue, 17 Jul 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/buterin-questions2/</guid>
+      <description>Introduction: WeChat has some excellent channels for lively and informative discussions focussing on blockchain technologies. Ethereum co-founder Vitalik Buterin recently posted a set of blockchain ‘hard questions’ to one of these, and we are publishing responses here in Medium from Penta Global as a way to extend the conversation across the wider blockchain community, with hopes of furthering the conversation and a productive exchange of ideas.
+Q: Why aren’t there any useful large scale applications yet?</description>
+    </item>
+    
+    <item>
+      <title>Penta Network Governance</title>
+      <link>/blog/penta-governance/</link>
+      <pubDate>Fri, 13 Jul 2018 21:49:20 +0200</pubDate>
+      
+      <guid>/blog/penta-governance/</guid>
+      <description>Overview
+The primary goals of the Penta public blockchain are: decentralization, fairness and trust. In order to meet these, besides Penta, any public blockchain project needs to have a clear governance structure to avoid destructive actions or misaligned intentions by the core developers, or the block producers. Penta aims for a governance process that is both transparent and robust to corruption.
+At the center of Penta’s mission to increase economic inclusion and the stability of its blockchain, is a lowering of barriers to entry and increased opportunities for stakeholders to participate in the ecosystem.</description>
     </item>
     
     <item>
@@ -63,17 +124,24 @@
     </item>
     
     <item>
-      <title>Go is for lovers</title>
-      <link>/blog/go-is-for-lovers/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <title>Penta (PNT) official announcement to the community</title>
+      <link>/blog/penta-announcement/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
-      <guid>/blog/go-is-for-lovers/</guid>
-      <description>&lt;p&gt;Hugo uses the excellent &lt;a href=&#34;http://golang.org/&amp;gt;&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34;&gt;html/template&lt;/a&gt; library for
-its template engine. It is an extremely lightweight engine that provides a very
-small amount of logic. In our experience that it is just the right amount of
-logic to be able to create a good static website.   If you have used other
-template systems from different languages or frameworks you will find a lot of
-similarities in go templates.&lt;/p&gt;</description>
+      <guid>/blog/penta-announcement/</guid>
+      <description>Penta (PNT) official announcement to the community The Penta Global Foundation believes that recent market pressures have driven the price of PNT far below its true value. In response, the Penta Global Foundation has decided to initiate a buyback program on secondary markets. The total buyback will be 10% of the current circulating supply, amounting to 1.8 billion PNT. As of July 16, 2018, Penta officially started the first stage of the buyback process with a total amount of 200 million PNT.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/blog/buterin-fault-tolerance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/blog/buterin-fault-tolerance/</guid>
+      <description>A Guide to 99% Fault Tolerant Consensus, What Does that Really Mean?
+by Ed Kazmierczak and Steve Melnikoff
+the Penta Global Blockchain Foundation
+Introduction: Penta Global was founded to be the most economically inclusive blockchain platform for the digital economy. Its &amp;#39;universal connector&amp;#39; mission is to be a global network that interoperates and interconnects with other projects and off-chain systems. As part of this mission we keep a close watch on new developments and emerging ideas from the blockchain community, towards making positive contributions to meaningful areas of research.</description>
     </item>
     
   </channel>

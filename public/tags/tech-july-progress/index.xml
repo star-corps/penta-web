@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech July Progress on Penta Global</title>
+    <link>/tags/tech-july-progress/</link>
+    <description>Recent content in Tech July Progress on Penta Global</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Jul 2018 13:47:08 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/tech-july-progress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Penta weekly progress from July 16 through July 22</title>
+      <link>/blog/penta-weekly-progress-from-july-16-through-july-22/</link>
+      <pubDate>Sun, 22 Jul 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/penta-weekly-progress-from-july-16-through-july-22/</guid>
+      <description>Random Sorting Algorithm (RSA) &amp;amp; DSC Consensus Algorithm This week, the technical team continued the test automation, built an internal test environment (in a continuous integration / continuous delivery system), and optimized the performance of the core module:
+1.Optimize the DSC consensus network flow to increase the efficiency of the network protocol.
+Penta main-chain governance structure
+The development of the governance contract is in progress, and the STUB code is written to cooperate with the consensus algorithm QA.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business August on Penta Global</title>
+    <link>/tags/business-august/</link>
+    <description>Recent content in Business August on Penta Global</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Aug 2018 13:47:08 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/business-august/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Announcement about Strategic investment in ASX listed IoT company, CCP Technologies</title>
+      <link>/blog/penta-acquires-ccp2/</link>
+      <pubDate>Fri, 17 Aug 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/penta-acquires-ccp2/</guid>
+      <description>&lt;p&gt;Dear Penta community members:&lt;/p&gt;
+
+&lt;p&gt;Penta Global is pleased to announce the successful closing on a purchase of shares from the Australian Security Exchange (ASX) listed company, CCP Technologies (CT1) .&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

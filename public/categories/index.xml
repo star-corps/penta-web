@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Penta Global</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jul 2018 21:49:20 +0200</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,18 +14,18 @@
     <item>
       <title>Announcement</title>
       <link>/categories/announcement/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <pubDate>Fri, 13 Jul 2018 21:49:20 +0200</pubDate>
       
       <guid>/categories/announcement/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Blockchain Penta</title>
-      <link>/categories/blockchain-penta/</link>
-      <pubDate>Fri, 13 Jul 2018 13:39:46 +0200</pubDate>
+      <title>Business Innovation</title>
+      <link>/categories/business-innovation/</link>
+      <pubDate>Fri, 17 Aug 2018 13:47:08 +0200</pubDate>
       
-      <guid>/categories/blockchain-penta/</guid>
+      <guid>/categories/business-innovation/</guid>
       <description></description>
     </item>
     
@@ -57,11 +57,11 @@
     </item>
     
     <item>
-      <title>Programming</title>
-      <link>/categories/programming/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <title>Technology Development</title>
+      <link>/categories/technology-development/</link>
+      <pubDate>Wed, 01 Aug 2018 13:47:08 +0200</pubDate>
       
-      <guid>/categories/programming/</guid>
+      <guid>/categories/technology-development/</guid>
       <description></description>
     </item>
     

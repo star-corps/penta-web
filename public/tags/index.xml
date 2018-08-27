@@ -6,15 +6,33 @@
     <description>Recent content in Tags on Penta Global</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 17 Aug 2018 13:47:08 +0200</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Business August</title>
+      <link>/tags/business-august/</link>
+      <pubDate>Fri, 17 Aug 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/tags/business-august/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Business July</title>
+      <link>/tags/business-july/</link>
+      <pubDate>Tue, 17 Jul 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/tags/business-july/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Buyback</title>
       <link>/tags/buyback/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <pubDate>Fri, 13 Jul 2018 21:49:20 +0200</pubDate>
       
       <guid>/tags/buyback/</guid>
       <description></description>
@@ -30,18 +48,9 @@
     </item>
     
     <item>
-      <title>Go</title>
-      <link>/tags/go/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
-      
-      <guid>/tags/go/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Macroeconomics</title>
       <link>/tags/macroeconomics/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <pubDate>Fri, 13 Jul 2018 21:49:20 +0200</pubDate>
       
       <guid>/tags/macroeconomics/</guid>
       <description></description>
@@ -50,18 +59,9 @@
     <item>
       <title>Penta</title>
       <link>/tags/penta/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <pubDate>Fri, 13 Jul 2018 21:49:20 +0200</pubDate>
       
       <guid>/tags/penta/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Penta Governance Blockchain</title>
-      <link>/tags/penta-governance-blockchain/</link>
-      <pubDate>Fri, 13 Jul 2018 13:39:46 +0200</pubDate>
-      
-      <guid>/tags/penta-governance-blockchain/</guid>
       <description></description>
     </item>
     
@@ -77,7 +77,7 @@
     <item>
       <title>Secondary Markets</title>
       <link>/tags/secondary-markets/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      <pubDate>Fri, 13 Jul 2018 21:49:20 +0200</pubDate>
       
       <guid>/tags/secondary-markets/</guid>
       <description></description>
@@ -89,6 +89,33 @@
       <pubDate>Wed, 11 Jul 2018 21:49:20 +0200</pubDate>
       
       <guid>/tags/sports-lfe-penta-blockchain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech Buterin Large Scale</title>
+      <link>/tags/tech-buterin-large-scale/</link>
+      <pubDate>Tue, 17 Jul 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/tags/tech-buterin-large-scale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tech July Progress</title>
+      <link>/tags/tech-july-progress/</link>
+      <pubDate>Sun, 22 Jul 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/tags/tech-july-progress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology Development August</title>
+      <link>/tags/technology-development-august/</link>
+      <pubDate>Wed, 01 Aug 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/tags/technology-development-august/</guid>
       <description></description>
     </item>
     

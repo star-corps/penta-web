@@ -1,26 +1,49 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
- "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="43.000000pt" height="44.000000pt" viewBox="0 0 43.000000 44.000000"
- preserveAspectRatio="xMidYMid meet">
-<metadata>
-Created by potrace 1.15, written by Peter Selinger 2001-2017
-</metadata>
-<g transform="translate(0.000000,44.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
-<path d="M187 434 c-10 -11 -8 -52 3 -59 6 -3 10 -29 10 -57 l0 -52 -30 29
-c-17 16 -30 36 -30 45 0 40 -61 55 -80 20 -15 -27 4 -60 33 -60 13 0 36 -13
-52 -30 l29 -30 -50 0 c-28 0 -55 5 -61 11 -6 6 -21 9 -34 7 -20 -2 -24 -9 -24
--38 0 -29 4 -36 24 -38 13 -2 28 1 34 7 6 6 33 11 61 11 l50 0 -28 -29 c-15
--16 -40 -31 -56 -34 -36 -8 -46 -41 -19 -68 10 -10 23 -19 28 -19 16 0 41 30
-41 49 0 9 14 30 30 46 l30 29 0 -50 c0 -28 -5 -55 -11 -61 -6 -6 -9 -21 -7
--34 2 -20 9 -24 38 -24 29 0 36 4 38 24 2 13 -1 28 -7 34 -6 6 -11 33 -11 61
-l0 50 30 -29 c17 -16 30 -39 30 -52 0 -29 33 -48 60 -33 35 19 20 80 -20 80
--9 0 -29 14 -45 30 l-29 30 45 0 c25 0 50 -5 56 -11 6 -6 21 -9 34 -7 20 2 24
-9 24 38 0 29 -4 36 -24 38 -13 2 -28 -1 -34 -7 -6 -6 -31 -11 -56 -11 l-45 0
-28 29 c16 17 40 31 55 33 22 3 26 8 26 38 0 32 -3 35 -33 38 -29 3 -33 0 -38
--27 -3 -16 -19 -42 -35 -57 l-29 -28 0 50 c0 28 5 55 11 61 6 6 9 21 7 34 -2
-18 -10 25 -33 27 -17 2 -34 0 -38 -4z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="70px"
+	 height="70px" viewBox="0 0 70 70" enable-background="new 0 0 70 70" xml:space="preserve">
+<g id="Layer_2" display="none">
+	
+		<image display="inline" overflow="visible" width="43" height="44" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAsCAMAAADLhrFKAAAAqFBMVEUAAAA8KWU8KWU8KWU8KWU8
+KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8
+KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8
+KWU8KWX///9DMWvx8PTY1eCRhqiMgaRgUYKpoLumnrlZSXxXRnoGIyJFAAAALHRSTlMAEFD28XnT
+QjYVIF4Fo/mM4cN0a7+4C9mXJbGqkIJLL9HInGJWUhPsWTwrGcX7SXsAAAHSSURBVDjLpdXpbqMw
+FIZhg6FJ2ZeQfW3StJ15IVtnev93NknwRJikAqnfD2RbjyyQ8TniQbo9pP8s2uSXBHjy2lif4s8B
+3Db2iWOe/2XaxvY47fYFdhvrAhA43wJnGI/nahwC8rUce2nWs/saXVgAiZql8H/XDGCp4R6BHxH8
+LmcmGOXoHeIM7d29y54ObOr2hcFl717VBsxEB17rdsibIWIyUckYVgGM6jaBtwGkVetEADw967Zr
+AZDp520kfji9YmUVlfbw5V1RLfYFK6toRxd1rGwDVfhqG6nCF/uQem6YODp2oaNRJwnd8wdul4Cc
+azgCjc4lsNwKH74KLMe4ZQaANG8LjkXxBb6QHPM9TdnnR6SAz3zXaHf5J4iY4nCC1LwlkQCRe1tI
+4XQoiEVXAoSV6mARoP6NykVBds9XYjKI1xqVNsw0vI4Hk4Ua67RjgmErrOWelmescAMtrcINVNnv
+8Wjz8VFSZRV25mbNez5ASZVVOACZajbkmjPVrL6uYjHeTh/YGYE5iphUaB/c6+O+lqwuBTkWlUQM
+NhNYPKgPdioZ3tfR8V3tMyIAORLVrCPksH9fU0cZrLqiFsN7XKv7/R/3AL23/Lhnte+F7XvsP5zL
+VITK9fqeAAAAAElFTkSuQmCC" transform="matrix(1 0 0 1 14.0830078 11.9995117)">
+	</image>
+</g>
+<g id="Layer_1">
+	<g>
+		
+			<line fill="none" stroke="#665E74" stroke-width="3" stroke-miterlimit="10" x1="14.6054688" y1="34.5273438" x2="55.3925781" y2="34.5273438"/>
+		
+			<line fill="none" stroke="#665E74" stroke-width="3" stroke-miterlimit="10" x1="35.7753906" y1="13.6914062" x2="35.7753906" y2="55.5869141"/>
+		
+			<line fill="none" stroke="#665E74" stroke-width="3" stroke-miterlimit="10" x1="48.7431641" y1="21.0058594" x2="21.6992188" y2="48.0498047"/>
+		
+			<line fill="#FFFFFF" stroke="#665E74" stroke-width="3" stroke-miterlimit="10" x1="21.6992188" y1="21.0058594" x2="48.8535156" y2="48.1611328"/>
+		
+			<circle fill="#FFFFFF" stroke="#665E74" stroke-width="3" stroke-miterlimit="10" cx="19.1499023" cy="18.5068359" r="3.9897461"/>
+		
+			<circle fill="#FFFFFF" stroke="#665E74" stroke-width="3" stroke-miterlimit="10" cx="10.6157227" cy="34.5273438" r="3.9897461"/>
+		<circle fill="#FFFFFF" stroke="#665E74" stroke-width="3" stroke-miterlimit="10" cx="35.7753906" cy="9.7011719" r="3.9902344"/>
+		
+			<circle fill="#FFFFFF" stroke="#665E74" stroke-width="3" stroke-miterlimit="10" cx="35.7753906" cy="59.1328125" r="3.9902344"/>
+		
+			<circle fill="#FFFFFF" stroke="#665E74" stroke-width="3" stroke-miterlimit="10" cx="59.3828125" cy="34.5273438" r="3.9902344"/>
+		<circle fill="#FFFFFF" stroke="#665E74" stroke-width="3" stroke-miterlimit="10" cx="51.402832" cy="18.5078125" r="3.9897461"/>
+		
+			<circle fill="#FFFFFF" stroke="#665E74" stroke-width="3" stroke-miterlimit="10" cx="19.1499023" cy="51.1523438" r="3.9897461"/>
+		<circle fill="#FFFFFF" stroke="#665E74" stroke-width="3" stroke-miterlimit="10" cx="51.402832" cy="51.1523438" r="3.9897461"/>
+	</g>
 </g>
 </svg>

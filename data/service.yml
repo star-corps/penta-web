@@ -1,54 +1,35 @@
 enable: true
-title: Five Dimensions, Many Facets of Penta
+title: About Penta
 subtitle: >
   Realizing the Universal Blockchain Connector for the Smart Economy
 content:
 
-
-
-  - field_image:
-    - '#process':
-        callback: 'file'
-        args:
-          - 'image'
-          - filename: '/ico.png'
-      alt: "Don't forget the alt text."
-    icon: pnt-icon1
-    name:
+  - icon: penta-icon1
+    name: Next Generation Public Blockchain
     text: >
-
-
-  - icon: ion-compass
-    name: Web Design
+      Penta combines robust blockchain infrastructure with a uniquely scalable and secure consensus algorithm for a high-performance DAPP platform.
+  - icon: penta-icon2
+    name: Realizing the Promise of Blockchain
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      Building on the success of its permission blockchain projects, the Penta development team now brings @scale technologies to public chains too. 
 
-  - icon: ion-image
-    name: App Design
+  - icon: penta-icon3
+    name: Five Dimensions of Connectivity
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+      Your Identity, Credibility, Value, Transferability, and Our Economy; the five key dimensions Penta connects the digital and real worlds with.
 
-  - icon: ion-bug
-    name: Start Up
+  - icon: penta-icon4
+    name: Universal Connection Layer
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+     A global network that interoperates and interconnects with other blockchain projects and off-chain, Cloud systems. 
 
-  - icon: ion-headphone
-    name: Logo Design
+  - icon: penta-icon5
+    name: Ten Core Technologies
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+     Innovative technological features and platform architecture drive Penta to deliver the world’s foremost high-reliability and high-availability blockchain network.
 
-  - icon: ion-leaf
-    name: Development
+  - icon: penta-icon6
+    name: Inclusive Blockchain Ecosystem
     text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
+     Penta's ‘universal connector’ mission is to be the world’s most inclusive and decentralized blockchain network.
 
-  - icon: ion-planet
-    name: Brand Identity
-    text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut
-
-  - icon: ion-earth
-    name: Brand Identity
-    text: >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut

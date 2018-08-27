@@ -37,8 +37,17 @@
 .post-area a:hover {
   color: #0D0017;
 }
+.post-date {
+  font-weight: bold;
+}
 
 .justify {
   text-align:justify;
   text-justify:inter-word;
+}
+
+@media (min-width: 992px) {
+  .col-md-3 {
+    width: 33%;
+  }
 }

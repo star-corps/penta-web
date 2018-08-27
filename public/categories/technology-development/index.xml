@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology Development on Penta Global</title>
+    <link>/categories/technology-development/</link>
+    <description>Recent content in Technology Development on Penta Global</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Aug 2018 13:47:08 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/technology-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TechLog: The Penta Account Model</title>
+      <link>/blog/penta-account-model/</link>
+      <pubDate>Wed, 01 Aug 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/penta-account-model/</guid>
+      <description>&lt;p&gt;Starting in August, as part of Penta&amp;rsquo;s &amp;#39;universal connector&amp;#39; mission to be a global network that interoperates and interconnects with other projects and off-chain systems we are posting a series of technical documentation articles to Medium. The first of these outlines the Penta Account data model, and how it underpins the rest of the platform architecture.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Penta weekly progress from July 16 through July 22</title>
+      <link>/blog/penta-weekly-progress-from-july-16-through-july-22/</link>
+      <pubDate>Sun, 22 Jul 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/penta-weekly-progress-from-july-16-through-july-22/</guid>
+      <description>Random Sorting Algorithm (RSA) &amp;amp; DSC Consensus Algorithm This week, the technical team continued the test automation, built an internal test environment (in a continuous integration / continuous delivery system), and optimized the performance of the core module:
+1.Optimize the DSC consensus network flow to increase the efficiency of the network protocol.
+Penta main-chain governance structure
+The development of the governance contract is in progress, and the STUB code is written to cooperate with the consensus algorithm QA.</description>
+    </item>
+    
+    <item>
+      <title>The Buterin Questions, #1 Bitmain and Affiliated Pools Now have Approximately 53% of all Bitcoin Hashpower. Isn’t this a Really Big Problem?</title>
+      <link>/blog/buterin-questions1/</link>
+      <pubDate>Tue, 17 Jul 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/buterin-questions1/</guid>
+      <description>Introduction: WeChat has some excellent channels for lively and informative discussions focussing on blockchain technologies. Ethereum co-founder Vitalik Buterin recently posted a set of blockchain ‘hard questions’ to one of these, and we are publishing responses here in Medium from Penta Global as a way to extend the conversation across the wider blockchain community, with hopes of furthering the conversation and a productive exchange of ideas.
+Q: Bitmain and affiliated pools now have approximately 53% of all bitcoin hashpower.</description>
+    </item>
+    
+    <item>
+      <title>The Buterin Questions, #2 Why Aren’t There Any Useful Large Scale Applications Yet?</title>
+      <link>/blog/buterin-questions2/</link>
+      <pubDate>Tue, 17 Jul 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/buterin-questions2/</guid>
+      <description>Introduction: WeChat has some excellent channels for lively and informative discussions focussing on blockchain technologies. Ethereum co-founder Vitalik Buterin recently posted a set of blockchain ‘hard questions’ to one of these, and we are publishing responses here in Medium from Penta Global as a way to extend the conversation across the wider blockchain community, with hopes of furthering the conversation and a productive exchange of ideas.
+Q: Why aren’t there any useful large scale applications yet?</description>
+    </item>
+    
+  </channel>
+</rss>

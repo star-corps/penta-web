@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology Development August on Penta Global</title>
+    <link>/tags/technology-development-august/</link>
+    <description>Recent content in Technology Development August on Penta Global</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Aug 2018 13:47:08 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/technology-development-august/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>TechLog: The Penta Account Model</title>
+      <link>/blog/penta-account-model/</link>
+      <pubDate>Wed, 01 Aug 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/penta-account-model/</guid>
+      <description>&lt;p&gt;Starting in August, as part of Penta&amp;rsquo;s &amp;#39;universal connector&amp;#39; mission to be a global network that interoperates and interconnects with other projects and off-chain systems we are posting a series of technical documentation articles to Medium. The first of these outlines the Penta Account data model, and how it underpins the rest of the platform architecture.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

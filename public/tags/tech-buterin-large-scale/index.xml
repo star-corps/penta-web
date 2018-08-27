@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech Buterin Large Scale on Penta Global</title>
+    <link>/tags/tech-buterin-large-scale/</link>
+    <description>Recent content in Tech Buterin Large Scale on Penta Global</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 17 Jul 2018 13:47:08 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/tech-buterin-large-scale/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Buterin Questions, #1 Bitmain and Affiliated Pools Now have Approximately 53% of all Bitcoin Hashpower. Isn’t this a Really Big Problem?</title>
+      <link>/blog/buterin-questions1/</link>
+      <pubDate>Tue, 17 Jul 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/buterin-questions1/</guid>
+      <description>Introduction: WeChat has some excellent channels for lively and informative discussions focussing on blockchain technologies. Ethereum co-founder Vitalik Buterin recently posted a set of blockchain ‘hard questions’ to one of these, and we are publishing responses here in Medium from Penta Global as a way to extend the conversation across the wider blockchain community, with hopes of furthering the conversation and a productive exchange of ideas.
+Q: Bitmain and affiliated pools now have approximately 53% of all bitcoin hashpower.</description>
+    </item>
+    
+    <item>
+      <title>The Buterin Questions, #2 Why Aren’t There Any Useful Large Scale Applications Yet?</title>
+      <link>/blog/buterin-questions2/</link>
+      <pubDate>Tue, 17 Jul 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/buterin-questions2/</guid>
+      <description>Introduction: WeChat has some excellent channels for lively and informative discussions focussing on blockchain technologies. Ethereum co-founder Vitalik Buterin recently posted a set of blockchain ‘hard questions’ to one of these, and we are publishing responses here in Medium from Penta Global as a way to extend the conversation across the wider blockchain community, with hopes of furthering the conversation and a productive exchange of ideas.
+Q: Why aren’t there any useful large scale applications yet?</description>
+    </item>
+    
+  </channel>
+</rss>

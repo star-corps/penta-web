@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Business Innovation on Penta Global</title>
+    <link>/categories/business-innovation/</link>
+    <description>Recent content in Business Innovation on Penta Global</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Aug 2018 13:47:08 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/business-innovation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Announcement about Strategic investment in ASX listed IoT company, CCP Technologies</title>
+      <link>/blog/penta-acquires-ccp2/</link>
+      <pubDate>Fri, 17 Aug 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/penta-acquires-ccp2/</guid>
+      <description>&lt;p&gt;Dear Penta community members:&lt;/p&gt;
+
+&lt;p&gt;Penta Global is pleased to announce the successful closing on a purchase of shares from the Australian Security Exchange (ASX) listed company, CCP Technologies (CT1) .&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Penta Announces Investment in Shares of ASX Listed Company, CCP Technologies, Using Penta’s PNT Cryptocurrency</title>
+      <link>/blog/penta-acquires-ccp/</link>
+      <pubDate>Tue, 17 Jul 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/penta-acquires-ccp/</guid>
+      <description>&lt;p&gt;On July 17, 2018 Australian Securities Exchange (ASX) listed company, CCP Technologies (ASX:CT1), made a public announcement regarding a significant purchase of shares by the Singapore based Penta Global Blockchain Foundation.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

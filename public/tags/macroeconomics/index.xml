@@ -6,10 +6,21 @@
     <description>Recent content in Macroeconomics on Penta Global</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 02 Oct 2015 21:49:20 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 13 Jul 2018 21:49:20 +0200</lastBuildDate>
     
 	<atom:link href="/tags/macroeconomics/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Penta Network Governance</title>
+      <link>/blog/penta-governance/</link>
+      <pubDate>Fri, 13 Jul 2018 21:49:20 +0200</pubDate>
+      
+      <guid>/blog/penta-governance/</guid>
+      <description>Overview
+The primary goals of the Penta public blockchain are: decentralization, fairness and trust. In order to meet these, besides Penta, any public blockchain project needs to have a clear governance structure to avoid destructive actions or misaligned intentions by the core developers, or the block producers. Penta aims for a governance process that is both transparent and robust to corruption.
+At the center of Penta’s mission to increase economic inclusion and the stability of its blockchain, is a lowering of barriers to entry and increased opportunities for stakeholders to participate in the ecosystem.</description>
+    </item>
     
     <item>
       <title>Penta (PNT) official announcement to the community</title>
@@ -18,6 +29,15 @@
       
       <guid>/blog/linked-post/</guid>
       <description>Penta (PNT) official announcement to the community The Penta Global Foundation believes that recent market pressures have driven the price of PNT far below its true value. In response, the Penta Global Foundation has decided to initiate a buyback program on secondary markets.The total buyback will be 10% of the current circulating supply, amounting to 1.8 billion PNT. As of July 16, 2018, Penta officially started the first stage of the buyback process with a total amount of 200 million PNT.</description>
+    </item>
+    
+    <item>
+      <title>Penta (PNT) official announcement to the community</title>
+      <link>/blog/penta-announcement/</link>
+      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
+      
+      <guid>/blog/penta-announcement/</guid>
+      <description>Penta (PNT) official announcement to the community The Penta Global Foundation believes that recent market pressures have driven the price of PNT far below its true value. In response, the Penta Global Foundation has decided to initiate a buyback program on secondary markets. The total buyback will be 10% of the current circulating supply, amounting to 1.8 billion PNT. As of July 16, 2018, Penta officially started the first stage of the buyback process with a total amount of 200 million PNT.</description>
     </item>
     
   </channel>

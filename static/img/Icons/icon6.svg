@@ -1,21 +1,45 @@
-<?xml version="1.0" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN"
- "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
-<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
- width="46.000000pt" height="47.000000pt" viewBox="0 0 46.000000 47.000000"
- preserveAspectRatio="xMidYMid meet">
-<metadata>
-Created by potrace 1.15, written by Peter Selinger 2001-2017
-</metadata>
-<g transform="translate(0.000000,47.000000) scale(0.100000,-0.100000)"
-fill="#000000" stroke="none">
-<path d="M118 414 l-98 -55 0 -99 c0 -55 -4 -102 -10 -105 -5 -3 -10 -19 -10
--35 0 -23 6 -31 23 -35 13 -4 27 -5 33 -3 5 1 43 -16 85 -40 42 -23 82 -42 90
--42 7 0 57 25 111 56 l98 55 0 99 c0 55 4 102 10 105 19 12 11 63 -10 70 -11
-3 -24 4 -29 1 -5 -3 -44 14 -87 39 -44 25 -86 45 -94 45 -8 0 -59 -25 -112
--56z m197 -25 c31 -17 60 -39 65 -49 7 -13 -6 -44 -57 -131 -36 -63 -67 -116
--69 -118 -2 -2 -4 71 -4 162 0 92 2 167 5 167 3 0 30 -14 60 -31z m-109 -336
-c-7 -8 -116 59 -126 76 -7 14 7 45 58 134 l67 117 3 -162 c1 -88 1 -163 -2
--165z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="70px"
+	 height="70px" viewBox="0 0 70 70" enable-background="new 0 0 70 70" xml:space="preserve">
+<g id="Layer_1" display="none">
+	
+		<image display="inline" overflow="visible" width="46" height="47" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC4AAAAvCAMAAACrOwigAAAAq1BMVEUAAAA8KWU8KWU8KWU8KWU8
+KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8
+KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8KWU8
+KWU8KWU8KWXy8fX///+3sMawqcF9cZlyZJDn5OzAus2gl7RcTH5UQ3gNSHFXAAAALXRSTlMAMIDR
+3AQQ+JP8Tu7ysBcH6Gy5iCsj1Wg4Cqh6KL2cdUVAMWFXHeLMx8Sgy1mpza+3AAACFElEQVRIx6XW
+53baQBCG4TGogBBIokiIJqptnLy4pd3/lQWWMmGzIT7J/ISHQWeXbwZxVgaFfLSGjwCPww/hzhOn
+eur8FSfjGEJgnEI8Tm7ryINwBHBX9kLwohu4PwXaEw9vz0UGbWDa/wMOGk2oL6SCwnCRRR2ajcCB
+/awFrcKXTkz77sTFLw6vZr6t5/m5z4xwcOT6nflcZLK4HJR5yu5E9rWEniiXvesC3U+Hdr5p8OsZ
+bEkD5XpepsaHfinE1emE17ASm0vSgG9f3klFpAaz82OV9zz4yrU/7J5fwPC6nKsGQ3HwAbx9/Y53
+zTchI3FxmQLw+ZqPCDdO7udAvJIrPoSaOHkG3vE95f4D96WTBy26dZuvYC1O3qDZt3mZshUn7zdp
+iM17sHTzLq3A5oOQmTh5BJnYvE3ccfLEI/dtPodKnLyCuVjcz/ESFzdxEZtnEImLm7hY3NyDOLmJ
+i8XNPbi4iUtpc3MPNte42Nzcg8U1Ljb3IBOba1yueJQCue/gGhflEQBtcXCNi/I6P17fYePgGhfl
+8PK8g8jBNS4inRmGt3jbvUIj+Z1rXJIqhnRpfuXH8iKbBylbnWLNXmA+ODrY6XlGKjdxuczI9uAS
+rfXCv0xg5ce46AR2z/cLN3Gx5rtrexx5AZVujxu7aWC4hzfR3XRr8/XKPYeRTv3bezUdA6Hu1X/Y
+2v/9n0CrgExc9RPlT1v5jMVUTgAAAABJRU5ErkJggg==" transform="matrix(1 0 0 1 12.2910156 11.5410156)">
+	</image>
+</g>
+<g id="Layer_2">
+	<g>
+		
+			<line fill="none" stroke="#665E74" stroke-width="3" stroke-miterlimit="10" x1="35.0004883" y1="6.8427734" x2="35.0004883" y2="64.0332031"/>
+		
+			<line fill="none" stroke="#665E74" stroke-width="3" stroke-miterlimit="10" x1="34.644043" y1="5.7568359" x2="9.5629883" y2="49.4697266"/>
+		
+			<line fill="none" stroke="#665E74" stroke-width="3" stroke-miterlimit="10" x1="60.4355469" y1="21.0966797" x2="35.8007812" y2="64.0341797"/>
+		<polyline fill="none" stroke="#665E74" stroke-width="3" stroke-miterlimit="10" points="59.9433594,50.8515625 
+			35.0161133,64.9033203 35.0161133,64.9033203 9.7573242,49.2880859 9.7573242,49.2880859 9.5629883,20.3916016 
+			35.0004883,5.0537109 60.7128906,21.0576172 60.7128906,21.0576172 60.4355469,50.5732422 		"/>
+		
+			<circle fill="#FFFFFF" stroke="#665E74" stroke-width="3" stroke-miterlimit="10" cx="61.2119141" cy="20.8740234" r="3.9892578"/>
+		<circle fill="#FFFFFF" stroke="#665E74" stroke-width="3" stroke-miterlimit="10" cx="8.7871094" cy="50.8007812" r="3.9897461"/>
+		<circle fill="#FFFFFF" stroke="#665E74" stroke-width="3" stroke-miterlimit="10" cx="8.7871094" cy="20.8759766" r="3.9897461"/>
+		<path fill="#FFFFFF" stroke="#665E74" stroke-width="3" stroke-miterlimit="10" d="M65.2011719,50.8007812
+			c0,2.203125-1.7832031,3.9902344-3.9902344,3.9902344c-2.2011719,0-3.9882812-1.7871094-3.9882812-3.9902344
+			c0-2.2050781,1.7871094-3.9902344,3.9882812-3.9902344C63.4179688,46.8105469,65.2011719,48.5957031,65.2011719,50.8007812z"/>
+	</g>
 </g>
 </svg>
