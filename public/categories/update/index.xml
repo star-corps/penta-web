@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Update on Penta Global</title>
+    <link>/categories/update/</link>
+    <description>Recent content in Update on Penta Global</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 29 Jul 2018 13:50:46 +0200</lastBuildDate>
+    
+	<atom:link href="/categories/update/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Penta weekly progress from July 23 through July 29</title>
+      <link>/blog/penta-weekly-progress-from-july-23-through-july-29/</link>
+      <pubDate>Sun, 29 Jul 2018 13:50:46 +0200</pubDate>
+      
+      <guid>/blog/penta-weekly-progress-from-july-23-through-july-29/</guid>
+      <description>Technology Development:
+Random Sorting Algorithm (RSA) &amp;amp; DSC Consensus Algorithm
+This week, the team continue to improve the code module of the algorithm: 1.Complete the development of the Genesis module in the core module. This module is used to initialize the parameters to create data in the governance contract and in the consensus contract. The current progress is 100%.
+Penta chain governance structure
+The development of the governance contract is on-going as planned, with an overall progress of 50%:</description>
+    </item>
+    
+  </channel>
+</rss>

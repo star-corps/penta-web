@@ -6,10 +6,20 @@
     <description>Recent content in Technology Development on Penta Global</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Aug 2018 13:47:08 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 13 Aug 2018 13:47:08 +0200</lastBuildDate>
     
 	<atom:link href="/categories/technology-development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Buterin Questions, #3 Why are There Not Yet Good Solutions to Account Security? When Will the Problem of Account Hacks and Thefts be Solved?</title>
+      <link>/blog/buterin-questions3/</link>
+      <pubDate>Mon, 13 Aug 2018 13:47:08 +0200</pubDate>
+      
+      <guid>/blog/buterin-questions3/</guid>
+      <description>Introduction: WeChat has some excellent channels for lively and informative discussions focussing on blockchain technologies. Ethereum co-founder Vitalik Buterin recently posted a set of blockchain ‘hard questions’ to one of these, and we are publishing responses here in Medium from Penta Global as a way to extend the conversation across the wider blockchain community, with hopes of furthering the conversation and a productive exchange of ideas.
+Q: Why are there not yet good solutions to account security?</description>
+    </item>
     
     <item>
       <title>TechLog: The Penta Account Model</title>

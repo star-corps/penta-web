@@ -481,9 +481,9 @@ font header .navbar-default .navbar-nav li a:hover {
   position: relative;
 }
 #portfolio-work .block .portfolio-menu ul .active:before {
-  content: "\f0d7";
+  content: "\f131";
   position: absolute;
-  font-family: 'FontAwesome';
+  font-family: 'Ionicons';
   bottom: -18px;
   font-size: 30px;
   width: 20px;
@@ -491,8 +491,8 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0px;
   top: 23px;
   margin: 0 auto;
-  color: #fff;
-  text-shadow: 0 1px 0px rgba(0, 0, 0, 0.9);
+  color: #655e7a;
+  /*text-shadow: 0 1px 0px rgba(0, 0, 0, 0.9); */
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
@@ -500,9 +500,9 @@ font header .navbar-default .navbar-nav li a:hover {
   transition: all 0.4s ease-in-out;
 }
 #portfolio-work .block .portfolio-menu ul li:hover:before {
-  content: "\f0d7";
+  content: "\f131";
   position: absolute;
-  font-family: 'FontAwesome';
+  font-family: 'Ionicons';
   bottom: -18px;
   font-size: 30px;
   width: 20px;
@@ -510,8 +510,8 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0px;
   top: 24px;
   margin: 0 auto;
-  color: #fff;
-  text-shadow: 0 1px 0px rgba(0, 0, 0, 0.9);
+  color: #655e7a;
+  /*text-shadow: 0 1px 0px rgba(0, 0, 0, 0.9);*/
   -webkit-transition: all 0.4s ease-in-out;
   -moz-transition: all 0.4s ease-in-out;
   -o-transition: all 0.4s ease-in-out;
